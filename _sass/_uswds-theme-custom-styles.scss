@@ -1,0 +1,39 @@
+.usa-footer__logo-img {
+    max-width: 20rem;
+}
+
+.usa-button i {
+    margin-right: 10px;
+}
+
+$messenger-blue: #0099FF;
+$facebook-blue: #036ce4;
+$twitter-blue: #1ea1f1;
+$whatsapp-green: #009e0f;
+$email-red: #D44638;
+$sms-gray: #cccccc;
+
+@mixin button-custom($color) {
+    background-color: $color;
+    &:hover { background-color: darken($color, 10%); }
+    &:active { background-color: darken($color, 20%); };
+}
+
+.button-messenger {
+    @include button-custom($messenger-blue);
+}
+.button-sms {
+    @include button-custom($sms-gray);
+}
+.button-twitter {
+    @include button-custom($twitter-blue);
+}
+.button-facebook {
+    @include button-custom($facebook-blue);
+}
+.button-whatsapp {
+    @include button-custom($whatsapp-green);
+}
+.button-email {
+    @include button-custom($email-red);
+}

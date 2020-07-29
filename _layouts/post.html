@@ -1,0 +1,48 @@
+---
+layout: default
+main:
+  class: desktop:grid-col-8 usa-prose
+---
+{% capture text %}{{page.share_text}}{% endcapture %}
+{% capture url %}{{site.url}}{{page.url}}{% endcapture %}
+<div class="usa-section">
+  <div class="grid-container">
+    <div class="grid-row grid-gap flex-align-start">
+      <main class="usa-prose desktop:grid-col-7" id="main-content">
+        {% if page.title %}
+          <h1>{{ page.title }}</h1>
+        {% endif %}
+        {{ content }}
+      </main>
+
+      <div class="desktop:grid-col-5 usa-sticky-sidenav">
+        <h2>You're almost done</h2>
+        <ul class="usa-button-group">
+          <li class="usa-button-group__item">
+            <a href="https://www.facebook.com/dialog/send?app_id={{site.fb_app_id}}&link={{url}}&redirect_uri={{url}}" class="usa-button button-messenger"><i class="fab fa-facebook-messenger"></i>Messenger</a>
+          </li>
+          <li class="usa-button-group__item">
+            <a href="sms:?&body={{text}}%20{{url}}"
+              class="usa-button button-sms"><i class="far fa-comments"></i>SMS</a>
+          </li>
+          <li class="usa-button-group__item">
+            <a href="https://www.facebook.com/dialog/share?app_id={{site.fb_app_id}}&href={{url}}"
+              class="usa-button button-facebook"><i class="fab fa-facebook"></i>Facebook</a>
+          </li>
+          <li class="usa-button-group__item">
+            <a href="https://twitter.com/intent/tweet/?text={{text|url_encode}}&url={{url|url_encode}}"
+              class="usa-button button-twitter"><i class="fab fa-twitter"></i>Twitter</a>
+          </li>
+          <li class="usa-button-group__item">
+            <a href="whatsapp://send?text={{url}}"
+              class="usa-button button-whatsapp"><i class="fab fa-whatsapp"></i>WhatsApp</a>
+          </li>
+          <li class="usa-button-group__item">
+            <a href="mailto:?subject={{text}}&body={{url}}"
+              class="usa-button button-email"><i class="fas fa-at"></i>Email</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
