@@ -3,3 +3,6 @@ _site
 .jekyll-metadata
 .users.yml
 vendor/bundle
+.tweet-cache
+.jekyll-cache
+
