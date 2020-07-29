@@ -25,7 +25,7 @@ gem 'uswds-jekyll', :git => 'https://github.com/18F/uswds-jekyll.git'
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.11"
   gem "jekyll-seo-tag", "~> 2.5"
-  # gem "jekyll-assets", "~> 3.0"
+  gem 'jekyll-font-awesome-sass', :git => 'https://github.com/erikkallen/jekyll-font-awesome-sass.git'
   gem 'jekyll-twitter-plugin'
 end
 

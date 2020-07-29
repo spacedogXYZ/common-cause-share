@@ -5,6 +5,14 @@ GIT
     uswds-jekyll (5.0.0)
       jekyll (>= 4.0, < 5)
 
+GIT
+  remote: https://github.com/erikkallen/jekyll-font-awesome-sass.git
+  revision: d598ee4dc1a9123b79d3ea1a83b6fee42948b273
+  specs:
+    jekyll-font-awesome-sass (0.1.1)
+      font-awesome-sass (>= 4)
+      jekyll (>= 2.5, < 5.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -17,6 +25,8 @@ GEM
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
     ffi (1.13.1)
+    font-awesome-sass (5.13.0)
+      sassc (>= 1.11)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (1.8.5)
@@ -80,6 +90,7 @@ DEPENDENCIES
   concurrent-ruby (~> 1.1.1)
   jekyll (~> 4.0)
   jekyll-feed (~> 0.11)
+  jekyll-font-awesome-sass!
   jekyll-seo-tag (~> 2.5)
   jekyll-twitter-plugin
   sprockets (~> 3.7)
