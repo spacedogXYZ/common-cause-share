@@ -22,7 +22,7 @@ main:
         <h2>{{page.share_subhead}}</h2>
         <ul class="usa-button-group">
           <li class="usa-button-group__item">
-            <a href="https://www.facebook.com/dialog/send?app_id={{site.fb_app_id}}&link={{url}}&redirect_uri={{url}}"
+            <a onclick="javascript:FBMessage();"
             class="usa-button button-messenger" target="_blank"><i class="fab fa-facebook-messenger"></i>Messenger</a>
           </li>
           <li class="usa-button-group__item">
@@ -30,7 +30,7 @@ main:
               class="usa-button button-sms" target="_blank"><i class="far fa-comments"></i>SMS</a>
           </li>
           <li class="usa-button-group__item">
-            <a href="https://www.facebook.com/dialog/share?app_id={{site.fb_app_id}}&href={{url}}"
+            <a href="javascript:FBShare();"
               class="usa-button button-facebook" target="_blank"><i class="fab fa-facebook"></i>Facebook</a>
           </li>
           <li class="usa-button-group__item">
@@ -50,3 +50,19 @@ main:
     </div>
   </div>
 </div>
+
+<script>
+  function FBMessage() {
+    FB.ui({
+      method: 'send',
+      link: '{{url}}',
+    });
+  }
+
+  function FBShare() {
+    FB.ui({
+      method: 'share',
+      href: '{{url}}',
+    });
+  }
+</script>

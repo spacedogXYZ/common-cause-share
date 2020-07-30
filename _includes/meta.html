@@ -1,0 +1,25 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>{% if page.title %}{{ page.title | strip_html }} | {% endif %}{{ site.title }}</title>
+
+{% assign description = page.description | default: site.description %}
+{% if description %}
+<meta name="description" content="{{ description }}">
+{% endif %}
+
+{% include favicon.html %}
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : "{{site.fb_app_id}}",
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v7.0'
+    });
+  };
+</script>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js"></script>
+  
