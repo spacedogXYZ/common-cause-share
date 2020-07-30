@@ -7,7 +7,20 @@
 {% assign description = page.description | default: site.description %}
 {% if description %}
 <meta name="description" content="{{ description }}">
+<meta property="og:description" content="{{ description }}" />
 {% endif %}
+
+{% capture url %}{{site.url}}{{page.url}}{% endcapture %}
+<meta property="og:url" content="{{url}}" />
+
+{% if page.title %}
+<meta property="og:title" content="{{page.title}}" />
+{% endif %}
+
+{% if page.share_image %}
+<meta property="og:image" content="{{site.url}}{{page.share_image}}" />
+{% endif %}
+
 
 {% include favicon.html %}
 
