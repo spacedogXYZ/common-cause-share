@@ -38,7 +38,7 @@ main:
               class="usa-button button-twitter" target="_blank"><i class="fab fa-twitter"></i>Twitter</a>
           </li>
           <li class="usa-button-group__item">
-            <a href="whatsapp://send?text={{url}}" onclick="javascript:PostShare();"
+            <a href="https://wa.me/?text={{text|url_encode}}%20{{url|url_encode}}" onclick="javascript:PostShare();"
               class="usa-button button-whatsapp" target="_blank"><i class="fab fa-whatsapp"></i>WhatsApp</a>
           </li>
           <li class="usa-button-group__item">
