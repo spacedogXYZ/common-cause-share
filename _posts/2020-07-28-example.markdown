@@ -5,6 +5,7 @@ date:   2020-07-27
 share_text: "Let's go!"
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word <i class="fas fa-arrow-down bounce"></i>
+share_image: /assets/uploads/99-days.png
 ---
 
 {% twitter https://twitter.com/CommonCause/status/1287810106697097216 %}
