@@ -4,6 +4,8 @@
 
 <title>{% if page.title %}{{ page.title | strip_html }} | {% endif %}{{ site.title }}</title>
 
+<meta property="fb:app_id" content="{{ site.fb_app_id }}" />
+<meta property="og:type" content="website" />
 {% assign description = page.share_text | default: site.description %}
 {% if description %}
 <meta name="description" content="{{ description }}">
