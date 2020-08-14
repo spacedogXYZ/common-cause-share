@@ -16,10 +16,12 @@ collections:
     extension: "md"
     sort: "date:desc"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview: false
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}-{{lang}}"
     path: "{{year}}/{{month}}/{{day}}/{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Language", name: "lang", widget: "select", options: ["en", "es"], default: "en"}
       - {label: "Slug", name: "slug", widget: "string"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}

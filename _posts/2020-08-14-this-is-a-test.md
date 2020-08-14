@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: en
 slug: this-is-a-test
 title: this is a test
 share_header: You're almost done!
