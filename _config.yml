@@ -25,6 +25,9 @@ collections:
   posts:
     permalink: /:year/:month/:day/:slug/
 
+include:
+  - _redirects
+
 # Build settings
 theme: uswds-jekyll
 font-awesome:
