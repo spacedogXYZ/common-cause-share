@@ -18,7 +18,7 @@ collections:
     create: true
     preview: false
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}-{{lang}}"
-    path: "{{year}}/{{month}}/{{day}}/{{slug}}"
+    path: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Language", name: "lang", widget: "select", options: ["en", "es"], default: "en"}
