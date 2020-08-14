@@ -19,5 +19,3 @@ collections:
       - {label: "Share Subhead", name: "share_subhead", widget: "string", default: "Use these sharing tools to spread the word"}
       - {label: "Share Text", name: "share_text", widget: "string"}
       - {label: "Share Image", name: "share_image", widget: "image"}
-    meta: # Meta data fields. Just like fields, but without any preview element
-      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
