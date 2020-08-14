@@ -1,8 +1,8 @@
 ---
 layout: post
 lang: en
-slug: this-is-a-test
-title: this is a test
+lang_ref: this-is-a-test
+title: This is a Test
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
 share_text: this is really important

@@ -3,6 +3,7 @@ backend:
   branch: master # Branch to update (master by default)
 
 media_folder: "assets/uploads" # Folder where user uploaded files should go
+site_url: "https://common-cause-share.netlify.app"
 
 slug:
   encoding: "ascii"
@@ -16,13 +17,17 @@ collections:
     extension: "md"
     sort: "date:desc"
     create: true
-    preview: false
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}-{{lang}}"
+    editor:
+      preview: false
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "/{{year}}/{{month}}/{{day}}/{{slug}}"
+    preview_path_date_field: date
     path: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Language", name: "lang", widget: "select", options: ["en", "es"], default: "en"}
-      - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Reference", name: "lang_ref", widget: "string"}
+      - {label: "URL Slug", name: "slug", widget: "string"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Share Header", name: "share_header", widget: "string", default: "You're almost done!"}
