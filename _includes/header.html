@@ -1,0 +1,43 @@
+{% assign header = site.data.header %}
+{% if header %}
+  <div class="usa-overlay"></div>
+  <header class="usa-header usa-header--basic" role="banner">
+    <div class="usa-nav-container">
+      <div class="usa-navbar">
+        <div class="usa-logo" id="header-logo">
+          <a
+            href="{% if header.href %}{{ header.href }}{% else %}{{ site.baseurl }}/{% endif %}"
+            title="Home">
+            {% if header.logo %}
+              <img
+                class="usa-logo-img"
+                src="{% if header.logo.external %}{{ header.logo.src }}{% else %}{{ header.logo.src | relative_url }}{% endif %}"
+                alt="{{ header.logo.alt }}">
+            {% endif %}
+            <em class="usa-logo__text">
+              {{ header.title | default: site.title }}
+            </em>
+          </a>
+        </div>
+      </div>
+
+      {% assign posts=site.posts | where:"lang_ref", page.lang_ref | sort: 'lang' %}
+      {% if posts.size == 0 %}
+          {% assign posts=site.pages | where:"lang_ref", page.lang_ref | sort: 'lang' %}
+      {% endif %}
+      {% if posts.size > 1 %}
+      <div class="translations">
+          {% for post in posts %}
+            {% if post.lang != page.lang %}
+            <a href="{{ site.base-url }}{{ post.url }}" class="usa-button usa-button--outline translation-link" title="View in {{post.lang}}">
+              {% if post.lang == "es"%}En Español
+              {% elsif post.lang == "en"%}English
+              {% else %}{{post.lang}}
+              {%endif%}</a>
+            {% endif %}
+          {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </header>
+{% endif %}
