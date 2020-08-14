@@ -9,13 +9,10 @@ hero:
   callout:
     alt: "Hero callout:"
     text: Bring attention to a current priority
+  content: Support the callout with some short explanatory text. You don't need more than a couple of sentences.
   button:
     href: /callout/
     text: Call to action
-  link:
-    text: Link to more about that priority
-    href: /link/
-  content: Support the callout with some short explanatory text. You don't need more than a couple of sentences.
 
 tagline: Democracy Doesn't Stop
 intro: |

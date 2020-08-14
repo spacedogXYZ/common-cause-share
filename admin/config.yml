@@ -29,3 +29,54 @@ collections:
       - {label: "Share Subhead", name: "share_subhead", widget: "string", default: "Use these sharing tools to spread the word"}
       - {label: "Share Text", name: "share_text", widget: "string"}
       - {label: "Share Image", name: "share_image", widget: "image"}
+  - name: "page"
+    label: "Pages"
+    files:
+        - name: "index"
+          label: "Index page"
+          file: "/index.md"
+          fields:
+            - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
+            - {label: "Title", name: "title", widget: "string"}
+            - label: Hero
+              name: hero
+              widget: object
+              fields:
+                - {label: "Background Image", name: "image", widget: "image"}
+                - label: "Callout"
+                  name: "callout"
+                  widget: "object"
+                  fields:
+                    - {label: "Line 1", name: "alt", widget: "string"}
+                    - {label: "Line 2", name: "text", widget: "string"}
+                - label: "Content"
+                  name: "content"
+                  widget: "string"
+                - label: "Button"
+                  name: "button"
+                  widget: "object"
+                  fields:
+                    - {label: "Link", name: "href", widget: "string"}
+                    - {label: "Text", name: "text", widget: "string"}
+            - label: Tagline
+              name: tagline
+              widget: string
+            - label: Intro
+              name: Intro
+              widget: string
+            - label: Graphics
+              name: graphics
+              widget: list
+              fields: 
+                - label: Image
+                  name: image
+                  widget: "object"
+                  fields: 
+                    - {label: "source", name: src, widget: "image", default: "/assets/uswds/img/circle-124.png"}
+                    - {label: "alt", name: alt, widget: "string"}
+                - label: Title
+                  name: title
+                  widget: string
+                - label: Description
+                  name: description
+                  widget: string
