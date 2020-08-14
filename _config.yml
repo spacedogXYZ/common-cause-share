@@ -21,6 +21,10 @@ url: "https://common-cause-share.netlify.app" # the base hostname & protocol for
 google_analytics_ua: UA-????????-??
 fb_app_id: 3112531338794556
 
+collections:
+  posts:
+    permalink: /:year/:month/:day/:slug/
+
 # Build settings
 theme: uswds-jekyll
 font-awesome:
