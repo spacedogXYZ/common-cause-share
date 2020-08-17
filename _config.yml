@@ -23,7 +23,7 @@ fb_app_id: 3112531338794556
 
 collections:
   posts:
-    permalink: /:year/:month/:day/:slug/
+    permalink: /:slug/
 
 include:
   - _redirects
