@@ -27,7 +27,6 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Language", name: "lang", widget: "select", options: ["en", "es"], default: "en"}
       - {label: "Reference", name: "lang_ref", widget: "string"}
-      - {label: "URL Slug", name: "slug", widget: "string"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Share Header", name: "share_header", widget: "string", default: "You're almost done!"}
