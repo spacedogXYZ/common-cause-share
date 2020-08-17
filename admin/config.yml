@@ -4,6 +4,7 @@ backend:
 
 media_folder: "assets/uploads" # Folder where user uploaded files should go
 site_url: "https://share.commoncause.org"
+show_preview_links: true
 
 slug:
   encoding: "ascii"
@@ -20,13 +21,13 @@ collections:
     editor:
       preview: false
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    preview_path: "/{{year}}/{{month}}/{{day}}/{{slug}}"
-    preview_path_date_field: date
-    path: "{{slug}}"
+    preview_path: "/{{permalink}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Language", name: "lang", widget: "select", options: ["en", "es"], default: "en"}
       - {label: "Reference", name: "lang_ref", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "Shortlink", name: "shortlink", widget: "string"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Share Header", name: "share_header", widget: "string", default: "You're almost done!"}
