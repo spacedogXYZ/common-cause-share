@@ -2,7 +2,7 @@
 layout: post
 lang: en
 lang_ref: 090820-nh-absentee-vote
-permalink: 090820-nh-absentee-vote
+permalink: 2020/09/08/nh-absentee-vote
 shortlink: 090820-nh-absentee-vote
 title: "New Hampshire: You Can Vote Absentee In Person"
 share_header: You're almost done!
