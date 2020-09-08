@@ -1,5 +1,10 @@
-function PostShare() {
-  MicroModal.show('postshare'); 
+function PostShare(event, delay) {
+  if (!delay) {  
+    delay = 500;
+  }
+  setTimeout(function(){
+      MicroModal.show('postshare')
+    }, delay);
   return true;
 }
 

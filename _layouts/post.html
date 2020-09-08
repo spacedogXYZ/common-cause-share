@@ -26,7 +26,7 @@ main:
             class="usa-button button-messenger" target="_blank"><i class="fab fa-facebook-messenger"></i>Messenger</a>
           </li>
           <li class="usa-button-group__item">
-            <a href="sms:?&body={{text}}%20{{url}}" onclick="javascript:PostShare();"
+            <a href="sms:?&body={{text}}%20{{url}}" onclick="javascript:PostShare({}, 1000);"
               class="usa-button button-sms" target="_blank"><i class="far fa-comments"></i>SMS</a>
           </li>
           <li class="usa-button-group__item">
@@ -34,15 +34,15 @@ main:
               class="usa-button button-facebook" target="_blank"><i class="fab fa-facebook"></i>Facebook</a>
           </li>
           <li class="usa-button-group__item">
-            <a href="https://twitter.com/intent/tweet/?text={{text|url_encode}}&url={{url|url_encode}}" onclick="javascript:PostShare();"
+            <a href="https://twitter.com/intent/tweet/?text={{text|url_encode}}&url={{url|url_encode}}" onclick="javascript:PostShare({}, 1000);"
               class="usa-button button-twitter" target="_blank"><i class="fab fa-twitter"></i>Twitter</a>
           </li>
           <li class="usa-button-group__item">
-            <a href="https://wa.me/?text={{text|url_encode}}%20{{url|url_encode}}" onclick="javascript:PostShare();"
+            <a href="https://wa.me/?text={{text|url_encode}}%20{{url|url_encode}}" onclick="javascript:PostShare({}, 1000);"
               class="usa-button button-whatsapp" target="_blank"><i class="fab fa-whatsapp"></i>WhatsApp</a>
           </li>
           <li class="usa-button-group__item">
-            <a href="mailto:?subject={{text}}&body={{url}}" onclick="javascript:PostShare();"
+            <a href="mailto:?subject={{page.title}}&body={{text}}%20{{url|url_encode}}" onclick="javascript:PostShare({}, 1000);"
               class="usa-button button-email" target="_blank"><i class="fas fa-at"></i>Email</a>
           </li>
         </ul>
