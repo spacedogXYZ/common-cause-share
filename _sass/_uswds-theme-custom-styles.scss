@@ -1,5 +1,9 @@
 @import "micromodal";
 
+.usa-hero__heading--alt {
+  display: inline;
+}
+
 .usa-footer__logo-img {
     max-width: 20rem;
 }
@@ -15,6 +19,19 @@
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-size: 1rem;
+}
+
+.usa-graphic-list {
+  .usa-graphic-list__heading {
+    a {
+      color: unset;
+      text-decoration: none;
+    }
+  }
+  img.usa-media-block__img {
+    max-width: 200px;
+    border-radius: 50%;
+  }
 }
 
 $messenger-blue: #0099FF;
