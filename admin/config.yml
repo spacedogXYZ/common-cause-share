@@ -25,13 +25,15 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Language", name: "lang", widget: "select", options: ["en", "es"], default: "en"}
-      - {label: "Reference", name: "lang_ref", widget: "string"}
-      - {label: "Permalink", name: "permalink", widget: "string"}
-      - {label: "Shortlink", name: "shortlink", widget: "string"}
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Share Header", name: "share_header", widget: "string", default: "You're almost done!"}
-      - {label: "Share Subhead", name: "share_subhead", widget: "string", default: "Use these sharing tools to spread the word"}
+      - {label: "Translation Reference", name: "lang_ref", widget: "string", hint: "Key to link translations together"}
+      - {label: "Permalink", name: "permalink", widget: "string", hint: "Long link for page. Suggest '/YYYY/MM/DD/title/'"}
+      - {label: "Shortlink", name: "shortlink", widget: "string", hint: "Short link to send via text"}
+      - {label: "Title", name: "title", widget: "string", tagname: "h1", hint: "Page heading and title"}
+      - {label: "Body", name: "body", widget: "markdown", hint: "Page body"}
+      - {label: "Share Header", name: "share_header", widget: "string",
+          default: "You're almost done!", hint: "Sidebar heading"}
+      - {label: "Share Subhead", name: "share_subhead", widget: "string",
+          default: "Use these sharing tools to spread the word", hint: "Sidebar secondary"}
       - {label: "Share Text", name: "share_text", widget: "string"}
       - {label: "Share Image", name: "share_image", widget: "image"}
   - name: "page"
@@ -81,6 +83,9 @@ collections:
                     - {label: "alt", name: alt, widget: "string"}
                 - label: Title
                   name: title
+                  widget: string
+                - label: Link
+                  name: href
                   widget: string
                 - label: Description
                   name: description
