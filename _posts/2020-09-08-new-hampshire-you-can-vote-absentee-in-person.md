@@ -3,7 +3,7 @@ layout: post
 lang: en
 lang_ref: 090820-nh-absentee-vote
 permalink: 090820-nh-absentee-vote
-shortlink: commoncause.org/voting-tools/
+shortlink: 090820-nh-absentee-vote
 title: "New Hampshire: You Can Vote Absentee In Person"
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
