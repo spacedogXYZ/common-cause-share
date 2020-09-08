@@ -16,4 +16,4 @@ New Hampshire voters: remember if you have your absentee ballot, but haven't mai
 
 ![](/assets/uploads/new-hampshire-.png)
 
-And don't forget -- you can find your polling place at <https://app.sos.nh.gov/Public/PollingPlaceSearch.aspx> or s visit [commoncause.org/voting-tools](https://commoncause.org/voting-tools) to get information and resources on how to vote safely.
+And don't forget -- you can find your polling place at <https://app.sos.nh.gov/Public/PollingPlaceSearch.aspx> or visit [commoncause.org/voting-tools](https://commoncause.org/voting-tools) to get information and resources on how to vote safely.
