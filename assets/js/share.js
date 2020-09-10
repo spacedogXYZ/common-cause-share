@@ -15,10 +15,11 @@ function PostShare(event, delay, method) {
   return true;
 }
 
-function FBMessage(url) {
+function FBMessage(url, text) {
   FB.ui({
     method: 'send',
     link: url,
+    quote: text,
   }, PostShare);
 
   if(window.dataLayer) {
@@ -29,11 +30,11 @@ function FBMessage(url) {
   }
 }
 
-function FBShare(url) {
-
+function FBShare(url, text) {
   FB.ui({
     method: 'share',
     href: url,
+    quote: text,
   }, PostShare);
 
   if(window.dataLayer) {
