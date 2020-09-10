@@ -1,16 +1,23 @@
+var showedPostShare = false;
+
 function PostShare(event, delay, method) {
   if (!delay) {  
     delay = 500;
   }
-  setTimeout(function(){
-      MicroModal.show('postshare')
-    }, delay);
+
+  if(!showedPostShare) {
+    setTimeout(function(){
+        MicroModal.show('postshare')
+        showedPostShare = true
+      }, delay);
+  }
 
   if(method && window.dataLayer) {
     window.dataLayer.push({
       event: 'share',
       method: method,
      })
+    
   }
   return true;
 }
