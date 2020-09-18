@@ -25,7 +25,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Language", name: "lang", widget: "select", options: ["en", "es"], default: "en"}
-      - {label: "Translation Reference", name: "lang_ref", widget: "string", hint: "Key to link translations together"}
+      - {label: "Translation Reference", name: "lang_ref", widget: "string", required: false, hint: "Key to link translations together"}
       - {label: "Permalink", name: "permalink", widget: "string", hint: "Long link for page. Suggest '/YYYY/MM/DD/title/'"}
       - {label: "Shortlink", name: "shortlink", widget: "string", hint: "Short link to send via text"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1", hint: "Page heading and title"}
