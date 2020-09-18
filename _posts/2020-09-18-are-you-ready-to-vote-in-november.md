@@ -8,9 +8,9 @@ title: Are you ready to vote in November?
 share_header: Spread the word!
 share_subhead: Make sure your friends are ready to go for the November election.
 share_text: "Today is #NationalVoterRegistrationDay! Voting is our chance to
-  decide what's best for the future of our families, community, & country. Take
-  5 minutes today to make sure you are #VoteReady by registering to vote or
-  checking your registration at nationalvoterregistrationday.org/register"
+  decide what's best for the future of our families, community, & country. Make
+  sure you are #VoteReady by registering to vote or checking your registration
+  at commoncause.org/vote"
 share_image: /assets/uploads/nvrd_socialshare.jpg
 ---
 ![Change the world in two minutes or less. #NationalVoterRegistrationDay](/assets/uploads/nvrd_page.jpg)
