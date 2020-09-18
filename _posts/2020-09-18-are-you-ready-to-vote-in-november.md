@@ -13,7 +13,7 @@ share_text: "Today is #NationalVoterRegistrationDay! Voting is our chance to
   checking your registration at nationalvoterregistrationday.org/register"
 share_image: /assets/uploads/nvrd_socialshare.jpg
 ---
-![](/assets/uploads/nvrd_page.jpg)
+![Change the world in two minutes or less. #NationalVoterRegistrationDay](/assets/uploads/nvrd_page.jpg)
 
 Voting is our chance to decide what’s best for the future of our families, community, and our country. But one in four Americans isn't registered to vote -- and there’s a good chance that some of your friends, family members, or neighbors are included in that number. 
 
