@@ -40,7 +40,7 @@ $facebook-blue: #036ce4;
 $twitter-blue: #1ea1f1;
 $whatsapp-green: #009e0f;
 $email-red: #D44638;
-$sms-gray: #cccccc;
+$sms-green: #21CE42;
 
 @mixin button-custom($color) {
     background-color: $color;
@@ -52,7 +52,7 @@ $sms-gray: #cccccc;
     @include button-custom($messenger-blue);
 }
 .button-sms {
-    @include button-custom($sms-gray);
+    @include button-custom($sms-green);
 }
 .button-twitter {
     @include button-custom($twitter-blue);
