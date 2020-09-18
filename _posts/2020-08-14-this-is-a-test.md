@@ -8,6 +8,6 @@ title: This is a Test
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
 share_text: this is really important
-share_image: /assets/uploads/vote.jpg
+share_image: /assets/uploads/GettyImages-486352078-400x400.jpg
 ---
 share it!
