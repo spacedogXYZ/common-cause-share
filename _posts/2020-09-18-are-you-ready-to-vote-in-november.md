@@ -1,8 +1,8 @@
 ---
 layout: post
 lang: en
-lang_ref: /2020/09/18/NVRD
-permalink: /2020/09/18/NVRD
+lang_ref: /2020/09/22/NVRD
+permalink: /2020/09/22/NVRD
 shortlink: /NVRD
 title: Are you ready to vote in November?
 share_header: Spread the word!
