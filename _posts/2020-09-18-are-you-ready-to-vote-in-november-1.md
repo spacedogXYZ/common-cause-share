@@ -9,9 +9,9 @@ share_header: Spread the word!
 share_subhead: Make sure your friends are ready to go for the November election.
 share_text: Today is National Voter Registration Day! Voting is our chance to
   decide what's best for the future of our families, community, and country.
-  Make sure you are vote-ready by registering to vote or checking your
-  registration at commoncause.org/vote
+  Register to vote or check your registration at commoncause.org/vote
 share_image: /assets/uploads/nvrd_socialshare.jpg
+share_hashtags: VoteReady
 ---
 Voting is our chance to decide what’s best for the future of our families, community, and our country. But one in four Americans isn't registered to vote -- and there’s a good chance that some of your friends, family members, or neighbors are included in that number. 
 
