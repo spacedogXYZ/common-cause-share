@@ -7,11 +7,11 @@ shortlink: /OhioAbsentee
 title: Avoiding Common Absentee Ballot Mistakes in Ohio
 share_header: Spread the word!
 share_subhead: Make sure your friends know what to watch out for.
-share_text: Millions of Ohioans will be voting absentee this November, many of
-  them for the 1st time. Voting by mail is easy, safe, and secure, but voters'
-  ballots have to be cast correctly to be counted. Visit
-  https://www.commoncause.org/ohio/democracy-wire/ohioabsentee/ to learn about
-  how to avoid common ballot mistakes.
+share_text: "Millions of Ohioans will be voting absentee this November, many of
+  them for the first time. To learn about common absentee ballot mistakes to
+  avoid making in OH, visit
+  https://www.commoncause.org/ohio/democracy-wire/ohioabsentee/ and click this
+  link to share this info with your friends:"
 share_image: /assets/uploads/GettyImages-519516013-1600x925.jpg
 share_hashtags: vote
 ---
