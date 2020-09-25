@@ -15,7 +15,7 @@ share_text: Millions of Ohioans will be voting absentee this November, many of
 share_image: /assets/uploads/GettyImages-519516013-1600x925.jpg
 share_hashtags: vote
 ---
-In Ohio, almost two million voters have already applied to vote absentee this November \[1] -- and our top priority is making sure that voters have the information they need to ensure their ballot is counted.
+In Ohio, almost two million voters have already applied to vote absentee this November -- and our top priority is making sure that voters have the information they need to ensure their ballot is counted.
 
 To learn about how you can avoid making common absentee ballot mistakes that could result in your vote-by-mail ballot not being processed or counted correctly, [**read this post on our Democracy Wire blog**.](https://www.commoncause.org/ohio/democracy-wire/ohioabsentee/)
 
