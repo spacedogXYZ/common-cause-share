@@ -14,9 +14,9 @@ share_text: Voting is our chance to decide what's best for the future of our
 share_image: /assets/uploads/GettyImages-519516013-1600x925.jpg
 share_hashtags: vote
 ---
-Voting is our chance to have a say in the future of our families, community, and the state of Ohio --  but, with Ohio's October 5th voter registration deadline fast approaching, we have our work cut out for us.
+**There are two big dates coming up in Ohio -- our voter registration deadline is on Monday, October 5th and Early Vote begins on Tuesday, October 6th.**
 
-1 in 4 Americans isn’t registered to vote, and there’s a good chance that some of your friends, family members, or neighbors are included in that number. And, we know one of the most effective ways to get these people to register is if they’re asked to by someone they know.
+1 in 4 Americans isn’t registered to vote, and there’s a good chance that someone in your social circles is included in that number. And, we know one of the most effective ways to get these people to register is if they’re asked to by someone they know.
 
 So, do you have 5 minutes to make sure you are ready to vote in November? **You can start by [registering to vote](https://olvr.ohiosos.gov/) or [checking to see if your voter registration is up-to-date](https://voterlookup.ohiosos.gov/voterlookup.aspx).**
 
