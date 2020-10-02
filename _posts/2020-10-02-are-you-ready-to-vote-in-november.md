@@ -4,7 +4,7 @@ lang: en
 lang_ref: /2020/10/03/voteFL
 permalink: /2020/10/03/voteFL
 shortlink: /voteFL
-title: Are you ready to vote in November?
+title: "Floridians: Are you ready to vote in November?"
 share_header: Spread the word!
 share_subhead: Make sure your friends are ready to go for the November election.
 share_text: Voting is our chance to decide what's best for the future of our
