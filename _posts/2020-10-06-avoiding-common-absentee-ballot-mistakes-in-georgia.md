@@ -8,7 +8,7 @@ title: Avoiding Common Absentee Ballot Mistakes in Georgia
 share_header: Spread the word!
 share_subhead: Make sure your friends know what to watch out for.
 share_text: "Millions of Georgians will be voting absentee this November, many
-  of them for the first time. To learn about common absentee ballot mistakes to
+  of them for the 1st time. To learn about common absentee ballot mistakes to
   avoid making in GA, visit
   https://www.commoncause.org/georgia/democracy-wire/georgiaabsentee/ and click
   this link to share this info with your friends:"
