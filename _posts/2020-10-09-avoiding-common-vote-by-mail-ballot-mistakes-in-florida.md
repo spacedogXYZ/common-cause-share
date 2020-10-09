@@ -8,9 +8,10 @@ title: Avoiding Common Vote-By-Mail Ballot Mistakes in Florida
 share_header: Spread the word!
 share_subhead: Make sure your friends know what to watch out for.
 share_text: "Millions of Floridians will be voting by mail this November, many
-  of them for the 1st time. To learn about common vote-by-mail ballot mistakes
-  to avoid making in FL, visit https://www.commoncause.org/florida/vbm/ and
-  click this link to share this info with your friends:"
+  of them for the 1st time. To learn about how to avoid making common
+  vote-by-mail ballot mistakes in FL, visit
+  https://www.commoncause.org/florida/vbm/ and click here to share this info
+  with your friends:"
 share_image: /assets/uploads/GettyImages-519516013-1600x925.jpg
 share_hashtags: vote
 ---
