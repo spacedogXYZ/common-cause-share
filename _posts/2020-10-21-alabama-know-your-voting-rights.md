@@ -14,6 +14,8 @@ The right to vote and have our voices heard is fundamental to our democracy. Our
 
 **One important way to help your friends, family, and neighbors know their rights is by sharing voting information from trustworthy sources, like your state's Secretary of State website.** 
 
-
+* [Find Your Polling Place >>](https://myinfo.alabamavotes.gov/voterview)
+* [Absentee Voting Information >>](https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting?m=voters)
+* [Voter ID Requirements >>](https://www.sos.alabama.gov/alabama-votes/photo-voter-id)
 
 Use the buttons on this page to help spread the word about this helpful voting information -- we're counting on you to help as many people as possible cast their ballots safely and securely!
