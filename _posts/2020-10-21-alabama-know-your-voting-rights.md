@@ -8,7 +8,7 @@ share_header: Spread The Word
 share_subhead: Use these sharing tools to post trusted, reliable voting
   information for your state
 share_text: Alabama - You Have The Right To Vote!
-share_image: /assets/uploads/alabama.png
+share_image: /assets/uploads/alabama-1-.png
 ---
 The right to vote and have our voices heard is fundamental to our democracy. Our democracy is stronger when every eligible American participates -- confident that when they cast a vote that it will be counted as cast, that the process is secure, and that anyone who interferes or tampers with our elections will be held accountable. 
 
