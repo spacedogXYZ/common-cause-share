@@ -18,4 +18,6 @@ The right to vote and have our voices heard is fundamental to our democracy. Our
 * [Absentee Voting Information >>](https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting?m=voters)
 * [Voter ID Requirements >>](https://www.sos.alabama.gov/alabama-votes/photo-voter-id)
 
+**And remember -- if you have any questions or run into any issues voting, call [866-OUR-VOTE](tel:8666878683) for free, trained, nonpartisan voter assistance.**
+
 Use the buttons on this page to help spread the word about this helpful voting information -- we're counting on you to help as many people as possible cast their ballots safely and securely!
