@@ -19,3 +19,5 @@ share_image: /assets/uploads/alabama-2-.png
 * [Voter ID Requirements >>](https://www.sos.alabama.gov/alabama-votes/photo-voter-id)
 
 **Use the buttons on this page to help spread the word about this helpful voting information -- and help your friends, family, and neighbors cast their ballots safely!**
+
+Remember, your vote is your voice -- and it's important that each of us have a say in our future. And, if you are in line when polls close, you still have the right to stay in line and cast your ballot!
