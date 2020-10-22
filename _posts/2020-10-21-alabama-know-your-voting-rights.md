@@ -7,10 +7,11 @@ title: Alabama - Call 866-OUR-VOTE if you need help voting!
 share_header: Spread The Word
 share_subhead: Use these sharing tools to post trusted, reliable voting
   information for your state
-share_text: Alabama - Call 866-OUR-VOTE if you need help voting!
+share_text: "Alabama: know your voting rights! Call 866-OUR-VOTE if you need
+  help voting, or use these official resources."
 share_image: /assets/uploads/alabama-2-.png
 ---
-### **[If you have any questions or run into any issues voting, call 866-OUR-VOTE for free, trained, nonpartisan voter assistance.](tel:8666878683)**
+### **[If you have any issues or questions while voting, call 866-OUR-VOTE for nonpartisan voter assistance.](tel:8666878683)**
 
 **You can also find reliable voting information on these official state websites:**
 
