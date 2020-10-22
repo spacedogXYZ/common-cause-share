@@ -24,4 +24,4 @@ share_image: /assets/uploads/alabama-4-.png
 
 Remember, your vote is your voice -- and it's important that each of us have a say in our future. And, if you are in line when polls close, you still have the right to stay in line and cast your ballot!
 
-**Live in another state? [Visit canivote.org to find official voting information >>](https://canivote.org)**
+**Live in another state? [Visit canivote.org to find official voting info >>](https://canivote.org)**
