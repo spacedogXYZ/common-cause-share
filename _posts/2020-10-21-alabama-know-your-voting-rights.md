@@ -3,21 +3,19 @@ layout: post
 lang: en
 permalink: /voting-info/alabama
 shortlink: /vote-alabama
-title: Alabama - Know Your Voting Rights
+title: Alabama - Call 866-OUR-VOTE if you need help voting!
 share_header: Spread The Word
 share_subhead: Use these sharing tools to post trusted, reliable voting
   information for your state
-share_text: Alabama - You Have The Right To Vote!
-share_image: /assets/uploads/alabama-1-.png
+share_text: Alabama - Call 866-OUR-VOTE if you need help voting!
+share_image: /assets/uploads/alabama-2-.png
 ---
-The right to vote and have our voices heard is fundamental to our democracy. Our democracy is stronger when every eligible American participates -- confident that when they cast a vote that it will be counted as cast, that the process is secure, and that anyone who interferes or tampers with our elections will be held accountable. 
+## **[If you have any questions or run into any issues voting, call 866-OUR-VOTE for free, trained, nonpartisan voter assistance.](tel:8666878683)**
 
-**One important way to help your friends, family, and neighbors know their rights is by sharing voting information from trustworthy sources, like your state's Secretary of State website.** 
+**You can also find reliable voting information on these official state websites:**
 
 * [Find Your Polling Place >>](https://myinfo.alabamavotes.gov/voterview)
 * [Absentee Voting Information >>](https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting?m=voters)
 * [Voter ID Requirements >>](https://www.sos.alabama.gov/alabama-votes/photo-voter-id)
 
-**And remember -- if you have any questions or run into any issues voting, call [866-OUR-VOTE](tel:8666878683) for free, trained, nonpartisan voter assistance.**
-
-Use the buttons on this page to help spread the word about this helpful voting information -- we're counting on you to help as many people as possible cast their ballots safely and securely!
+**Use the buttons on this page to help spread the word about this helpful voting information -- and help your friends, family, and neighbors cast their ballots safely!**
