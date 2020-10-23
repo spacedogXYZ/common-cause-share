@@ -3,16 +3,17 @@ layout: post
 lang: en
 permalink: trust-vote-by-mail
 shortlink: trust-vote-by-mail
-title: Monday 10/26 - Trust Vote by Mail
+title: Vote by Mail is Safe and Secure
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
 share_text: "Some politicians are trying to stop people from voting by mail just
   to create distrust and spread confusion. The truth: voting by mail is safe,
   secure, and trackable. Check rules and options in your state at
-  https://canivote.org."
+  https://canivote.org. Call or text 866-OUR-VOTE for nonpartisan help if you
+  have questions."
 share_image: /assets/uploads/distrustprocess_fb-twtr-1-.png
 ---
-Certain politicians want you to think vote-by-mail will lead to ballot manipulation. The truth is they don't want people to vote-by-mail because they think it will hurt their chances at the polls. In the states that have transitioned to all mail-in ballots, there has been no evidence of a partisan advantage for either side. Having the option to vote-by-mail is critical to ensuring the health and safety of every eligible voter. <https://www.nytimes.com/2020/04/10/us/politics/vote-by-mail.html>
+Certain politicians want you to think vote-by-mail will lead to ballot manipulation. The truth is they don't want people to vote-by-mail because they think it will hurt their chances at the polls. In the states that have transitioned to all mail-in ballots, there has been no evidence of a partisan advantage for either side. Having the option to vote-by-mail is critical to ensuring the health and safety of every eligible voter. Read more here: <https://www.nytimes.com/2020/04/10/us/politics/vote-by-mail.html>  Call or text 866-OUR-VOTE for nonpartisan help if you have questions.   
 
 Use the tools below to share that vote-by-mail is a trusted and safe process. And use the links on the right to share this page with family and friends.
 
@@ -34,7 +35,7 @@ If you have any questions or issues voting call or text 866-OUR-VOTE (866-687-86
     </a></div><a>
 </a></div>
 
-<br /><br />
+<br />
 
 # Twitter
 
