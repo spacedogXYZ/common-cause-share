@@ -15,7 +15,7 @@ share_image: /assets/uploads/rapidresponse_onewaytovote_fb.png
 ---
 Choose one way -- Are you voting in-person or by mail this year? If by mail: Don’t wait until the deadline--send or return your ballot today. If in-person: find your local polling place & double check what you need to vote. In either case, vote early if you can! Check https://canivote.org to learn your options, confirm hours and deadlines and check ID requirements. Learn the rules in your state at https://canivote.org. Call or text 866-OUR-VOTE for nonpartisan help if you have questions.   
 
-Use the tools below to share that vote-by-mail is a trusted and safe process. And use the links on the right to share this page with family and friends.
+Use the tools below to share this important information. And use the links on the right to share this page with family and friends.
 
 # Facebook
 
