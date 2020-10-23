@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: do-your-part-to-stop-disinfo
-shortlink: do-your-part
+shortlink: do-your-part-to-stop-disinfo
 title: Do Your Part to Stop Disinformation
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
