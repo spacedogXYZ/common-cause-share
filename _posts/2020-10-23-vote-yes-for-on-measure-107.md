@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /2020/10/23/oregon-vote-yes-measure-107
-shortlink: /YesOnMeasure107
+shortlink: YesOnMeasure107
 title: VOTE YES FOR ON MEASURE 107!
 share_header: You're almost done!
 share_subhead: Help us get the word out! Share this on your social media. Make
