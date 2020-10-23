@@ -2,5 +2,5 @@
 description: generates a netlify _redirects compatible file for serverside shortlinks
 ---
 # redirects from post shortlink to full permalink
-{% for post in site.posts %}{%if post.shortlink%}{{post.shortlink|slugify}}  {{post.permalink}}{%endif%}
+{% for post in site.posts %}{%if post.shortlink%}/{{post.shortlink|slugify}}  {{post.permalink}}{%endif%}
 {% endfor %}
