@@ -6,10 +6,15 @@ shortlink: trust-vote-by-mail
 title: Monday 10/26 - Trust Vote by Mail
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
-share_text: Trust vote by mail!
+share_text: "Some politicians are trying to stop people from voting by mail just
+  to create distrust and spread confusion. The truth: voting by mail is safe,
+  secure, and trackable. Check rules and options in your state at
+  https://canivote.org."
 share_image: /assets/uploads/distrustprocess_fb-twtr-1-.png
 ---
-On Monday Oct 26th, Common Cause, Election Protection and allies will share messages to combat and counter disinformation about vote-by-mail by building confidence in our vote-by-mail systems. Use the links below to share on Facebook and Twitter
+Certain politicians want you to think vote-by-mail will lead to ballot manipulation. The truth is they don't want people to vote-by-mail because they think it will hurt their chances at the polls. In the states that have transitioned to all mail-in ballots, there has been no evidence of a partisan advantage for either side. Having the option to vote-by-mail is critical to ensuring the health and safety of every eligible voter. <https://www.nytimes.com/2020/04/10/us/politics/vote-by-mail.html>
+
+Use the tools below to share that vote-by-mail is a trusted and safe process. And use the links on the right to share this page with family and friends.
 
 # Facebook
 
@@ -35,12 +40,12 @@ If you have any questions or issues voting call or text 866-OUR-VOTE (866-687-86
 
 <div style="border: 1px solid rgba(0, 0, 0, 0.125); box-shadow: rgba(0, 0, 0, 0.16) 0px 2px 5px 0px, rgba(0, 0, 0, 0.12) 0px 2px 10px 0px; border-radius: 0.25rem; margin-bottom: 25px;" id="email-9A37CAFE-8983-4682-9A01-50D9A04DCE03" class="email-post"><a>
     <div style="padding: 1.25rem; font-size: .9rem; color: #747373;">
-        <p style="margin-block-start: 0em;">A politician is suggesting people vote twice to “test the system.” This is to create confusion and distrust. You MUST choose one way to vote, and vote-by-mail is safe and secure. Did you know you can even track your mail-in ballot? <span style="color: blue">#ElectionProtection</span></p>
+        <p style="margin-block-start: 0em;">Some politicians are trying to stop people from voting by mail just to create distrust and spread confusion. The truth: voting by mail is safe, secure, and trackable. Check rules and options in your state at https://canivote.org. <span style="color: blue">#ElectionProtection</span></p>
         <img style="width: 100%" src="https://pic.speechifai.tech/B4222F74-556B-453B-94B1-53FF8023BC3C.jpg">
     </div>
     </a><div style="height: 35px; padding-left: 20px; padding-right: 20px; margin-bottom: 10px;"><a>
         </a><a href="
-            http://twitter.com/share?url=https://social.commoncause.org/s/fi_cIfVtL3BCrolTU3ea7Q&amp;text=A%20politician%20is%20suggesting%20people%20vote%20twice%20to%20%E2%80%9Ctest%20the%20system.%E2%80%9D%20This%20is%20to%20create%20confusion%20and%20distrust.%20You%20MUST%20choose%20one%20way%20to%20vote,%20and%20vote-by-mail%20is%20safe%20and%20secure.%20Did%20you%20know%20you%20can%20even%20track%20your%20mail-in%20ballot?%20%23ElectionProtection
+            http://twitter.com/share?url=https://social.commoncause.org/s/fi_cIfVtL3BCrolTU3ea7Q&amp;text=Some%20politicians%20are%20trying%20to%20stop%20people%20from%20voting%20by%20mail%20just%20to%20create%20distrust%20and%20spread%20confusion.%20The%20truth:%20voting%20by%20mail%20is%20safe,%20secure,%20and%20trackable.%20Check%20rules%20and%20options%20in%20your%20state%20at%20https://canivote.org.%20%23ElectionProtection
         "><div style="width: 100%; height: 100%; background-color: #fa674b; color: white; text-align: center; border-radius: 5px; vertical-align: center; padding-top: 5px;">
             Share post
         </div></a><a>
