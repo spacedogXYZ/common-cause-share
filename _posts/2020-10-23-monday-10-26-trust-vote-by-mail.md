@@ -7,8 +7,12 @@ title: Monday 10/26 - Trust Vote by Mail
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
 share_text: Trust vote by mail!
-share_image: /assets/uploads/vote-400x400.jpg
+share_image: /assets/uploads/distrustprocess_fb-twtr-1-.png
 ---
+On Monday Oct 26th, Common Cause, Election Protection and allies will share messages to combat and counter disinformation about vote-by-mail by building confidence in our vote-by-mail systems. Use the links below to share on Facebook and Twitter
+
+# Facebook
+
 <div style="border: 1px solid rgba(0, 0, 0, 0.125); box-shadow: rgba(0, 0, 0, 0.16) 0px 2px 5px 0px, rgba(0, 0, 0, 0.12) 0px 2px 10px 0px; border-radius: 0.25rem; margin-bottom: 25px;" id="email-74B27B58-F8F9-4A74-8D95-A2B863D936A8" class="email-post"><a>
     <div style="padding: 1.25rem; font-size: .9rem; color: #747373;">
         <p style="margin-block-start: 0em;">Partisan special interests are trying to stop people from voting by mail. This is to create distrust in our election systems and spread confusion about when ballots will arrive in the mail. The truth is voting by mail is a tried and tested process that is safe, secure, and trackable. Plus the Postal Service can handle it. You have options for how you cast your ballot, whether it is by mail, in person, or at a dropbox. Visit canivote.org to check the rules and options in your state. 
@@ -25,11 +29,9 @@ If you have any questions or issues voting call or text 866-OUR-VOTE (866-687-86
     </a></div><a>
 </a></div>
 
+<br /><br />
 
-
-
-
-
+# Twitter
 
 <div style="border: 1px solid rgba(0, 0, 0, 0.125); box-shadow: rgba(0, 0, 0, 0.16) 0px 2px 5px 0px, rgba(0, 0, 0, 0.12) 0px 2px 10px 0px; border-radius: 0.25rem; margin-bottom: 25px;" id="email-9A37CAFE-8983-4682-9A01-50D9A04DCE03" class="email-post"><a>
     <div style="padding: 1.25rem; font-size: .9rem; color: #747373;">
