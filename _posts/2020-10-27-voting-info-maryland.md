@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/MARYLAND.png
 * [Find Your Polling Place >>](http://www.elections.state.md.us/voting/where.html)
 * [Absentee Voting Information >>](http://www.elections.state.md.us/voting/absentee.html)
 * [Voter ID Requirements >>](http://www.elections.state.md.us/voting/election_day_questions.html#_Toc190229207)
-* [Track Your Absentee Ballot >>]https://voterservices.elections.maryland.gov/VoterSearch)
+* [Track Your Absentee Ballot >>](https://voterservices.elections.maryland.gov/VoterSearch)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 

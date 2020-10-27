@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/WASHINGTON.png
 * [Find Your Polling Place >>](https://voter.votewa.gov/WhereToVote.aspx)
 * [Absentee Voting Information >>](https://www.sos.wa.gov/elections/faq_vote_by_mail.aspx)
 * [Voter ID Requirements >>](http://www.sos.wa.gov/elections/voters.aspx)
-* [Track Your Absentee Ballot >>]https://voter.votewa.gov/WhereToVote.aspx#/login)
+* [Track Your Absentee Ballot >>](https://voter.votewa.gov/WhereToVote.aspx#/login)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 

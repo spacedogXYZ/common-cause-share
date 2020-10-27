@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/MAINE.png
 * [Find Your Polling Place >>](http://www.maine.gov/portal/government/edemocracy/voter_lookup.php)
 * [Absentee Voting Information >>](http://www.maine.gov/sos/cec/elec/voter-info/absent.html)
 * [Voter ID Requirements >>](http://www.maine.gov/sos/cec/elec/voter-info/right.html)
-* [Track Your Absentee Ballot >>]https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/ballot_status.pl)
+* [Track Your Absentee Ballot >>](https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/ballot_status.pl)
 * [Voting FAQ >>](https://docs.google.com/document/d/1FxNlaR8lrptCAOkroPmAlM4DvA30vgwL7Du6apytDB0/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

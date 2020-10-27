@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/WYOMING.png
 * [Find Your Polling Place >>](http://soswy.state.wy.us/Elections/PollPlace/Default.aspx)
 * [Absentee Voting Information >>](http://soswy.state.wy.us/Elections/AbsenteeVoting.aspx)
 * [Voter ID Requirements >>](http://soswy.state.wy.us/faqs.aspx?root=ELEC)
-* [Track Your Absentee Ballot >>]https://sos.wyo.gov/Elections/State/AbsenteeVoting.aspx)
+* [Track Your Absentee Ballot >>](https://sos.wyo.gov/Elections/State/AbsenteeVoting.aspx)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 

@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/IDAHO.png
 * [Find Your Polling Place >>](https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ViewPollingLocation.aspx)
 * [Absentee Voting Information >>](https://idahovotes.gov/absentee-voter-information/)
 * [Voter ID Requirements >>](https://idahovotes.gov/identification-requirements/)
-* [Track Your Absentee Ballot >>]https://idahovotes.gov/online-voter-tools/)
+* [Track Your Absentee Ballot >>](https://idahovotes.gov/online-voter-tools/)
 * [Voting FAQ >>](https://docs.google.com/document/d/1OwCx3R1TbFOp7PvjD3H6GHEMSZqiqbSsO4bxo2FuxOE/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

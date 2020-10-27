@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/RHODE-ISLAND.png
 * [Find Your Polling Place >>](https://vote.sos.ri.gov/Home/)
 * [Absentee Voting Information >>](https://vote.sos.ri.gov/Voter/VotebyMail?ActiveFlag=4)
 * [Voter ID Requirements >>](https://vote.sos.ri.gov/Content/Pdfs/voter_id_information.pdf)
-* [Track Your Absentee Ballot >>]https://vote.sos.ri.gov/Home/UpdateVoterRecord?ActiveFlag=3)
+* [Track Your Absentee Ballot >>](https://vote.sos.ri.gov/Home/UpdateVoterRecord?ActiveFlag=3)
 * [Voting FAQ >>](https://docs.google.com/document/d/1mx8lF0dS0zjPTKCXgu_YKUmgbskMomaXe-dHmbiuPno/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

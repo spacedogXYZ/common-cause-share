@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/KANSAS.png
 * [Find Your Polling Place >>](https://myvoteinfo.voteks.org/VoterView)
 * [Absentee Voting Information >>](https://www.sos.ks.gov/elections/elections-faq.html#Advance-Voting)
 * [Voter ID Requirements >>](https://sos.ks.gov/elections/photo-id.html)
-* [Track Your Absentee Ballot >>]https://myvoteinfo.voteks.org/voterview)
+* [Track Your Absentee Ballot >>](https://myvoteinfo.voteks.org/voterview)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 

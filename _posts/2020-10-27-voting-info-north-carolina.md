@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/NORTH-CAROLINA.png
 * [Find Your Polling Place >>](https://vt.ncsbe.gov/PPLkup/)
 * [Absentee Voting Information >>](https://www.ncsbe.gov/Voting-Options/Absentee-Voting)
 * [Voter ID Requirements >>](https://www.ncsbe.gov/voting/voter-id)
-* [Track Your Absentee Ballot >>]https://northcarolina.ballottrax.net/voter/)
+* [Track Your Absentee Ballot >>](https://northcarolina.ballottrax.net/voter/)
 * [Voting FAQ >>](https://docs.google.com/document/d/1rgpgu7R8cbaMlgOA8qMLABNvXFnR48a4YAr_7BHxp10/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

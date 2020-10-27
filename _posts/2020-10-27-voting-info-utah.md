@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/UTAH.png
 * [Find Your Polling Place >>](https://votesearch.utah.gov/voter-search/search/search-by-address/how-and-where-can-i-vote)
 * [Absentee Voting Information >>](https://voteinfo.utah.gov/learn-about-voting-by-mail-and-absentee-voting/)
 * [Voter ID Requirements >>](https://voteinfo.utah.gov/voter-id-requirements/)
-* [Track Your Absentee Ballot >>]https://votesearch.utah.gov/voter-search/search/search-by-voter/track-mail-ballot)
+* [Track Your Absentee Ballot >>](https://votesearch.utah.gov/voter-search/search/search-by-voter/track-mail-ballot)
 * [Voting FAQ >>](https://docs.google.com/document/d/1tdgsKlCjpwjzDRJNE6_No5lV3ROd-APOFy_bBE76exg/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

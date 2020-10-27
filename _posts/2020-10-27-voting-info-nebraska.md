@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/NEBRASKA.png
 * [Find Your Polling Place >>](https://www.votercheck.necvr.ne.gov/)
 * [Absentee Voting Information >>](https://sos.nebraska.gov/elections/early-voting)
 * [Voter ID Requirements >>](https://sos.nebraska.gov/elections/election-day-faq)
-* [Track Your Absentee Ballot >>]https://www.votercheck.necvr.ne.gov/voterview)
+* [Track Your Absentee Ballot >>](https://www.votercheck.necvr.ne.gov/voterview)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 

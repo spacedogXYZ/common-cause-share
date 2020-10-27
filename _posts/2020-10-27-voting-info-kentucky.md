@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/KENTUCKY.png
 * [Find Your Polling Place >>](https://www.sos.ky.gov/elections/Pages/Polling-Locations.aspx)
 * [Absentee Voting Information >>](https://www.sos.ky.gov/elections/Pages/2020-General-Updates.aspx)
 * [Voter ID Requirements >>](https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx)
-* [Track Your Absentee Ballot >>]https://vrsws.sos.ky.gov/vic/)
+* [Track Your Absentee Ballot >>](https://vrsws.sos.ky.gov/vic/)
 * [Voting FAQ >>](https://docs.google.com/document/d/1nbicK2cuvj45twoMTg-B5SLr4F5So3FdV3-vB7qZ_w4/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

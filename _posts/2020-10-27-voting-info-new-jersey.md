@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/NEW-JERSEY.png
 * [Find Your Polling Place >>](https://voter.njsvrs.com/PublicAccess/servlet/com.saber.publicaccess.control.PublicAccessNavigationServlet?USERPROCESS=MaintainUserAccount)
 * [Absentee Voting Information >>](https://www.state.nj.us/state/elections/vote-by-mail.shtml)
 * [Voter ID Requirements >>](http://www.state.nj.us/state/elections/vote_id_req.html)
-* [Track Your Absentee Ballot >>]https://voter.svrs.nj.gov/auth/sign-up)
+* [Track Your Absentee Ballot >>](https://voter.svrs.nj.gov/auth/sign-up)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 

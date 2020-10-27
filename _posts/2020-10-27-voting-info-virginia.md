@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/VIRGINIA.png
 * [Find Your Polling Place >>](https://vote.elections.virginia.gov/VoterInformation/Lookup/polling)
 * [Absentee Voting Information >>](http://www.elections.virginia.gov/casting-a-ballot/absentee-voting/)
 * [Voter ID Requirements >>](http://www.elections.virginia.gov/registration/photo-ids-required-to-vote/index.html)
-* [Track Your Absentee Ballot >>]https://www.elections.virginia.gov/citizen-portal/)
+* [Track Your Absentee Ballot >>](https://www.elections.virginia.gov/citizen-portal/)
 * [Voting FAQ >>](https://docs.google.com/document/d/15Sl9ji8dlAxDbbLC-8DRvfWeZTtHs5KHa29a7v33le8/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

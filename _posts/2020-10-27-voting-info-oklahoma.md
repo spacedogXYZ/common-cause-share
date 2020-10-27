@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/OKLAHOMA.png
 * [Find Your Polling Place >>](https://okvoterportal.okelections.us/)
 * [Absentee Voting Information >>](https://www.ok.gov/elections/Voter_Info/Absentee_Voting/index.html)
 * [Voter ID Requirements >>](http://www.ok.gov/elections/Voter_Info/Proof_of_Identity/index.html)
-* [Track Your Absentee Ballot >>]https://okvoterportal.okelections.us/)
+* [Track Your Absentee Ballot >>](https://okvoterportal.okelections.us/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 

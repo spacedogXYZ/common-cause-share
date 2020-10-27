@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/LOUISIANA.png
 * [Find Your Polling Place >>](https://voterportal.sos.la.gov/)
 * [Absentee Voting Information >>](https://www.sos.la.gov/ElectionsAndVoting/Vote/VoteByMail/Pages/default.aspx)
 * [Voter ID Requirements >>](https://www.sos.la.gov/ElectionsAndVoting/Vote/FrequentlyAskedQuestions/Pages/VotingOnElectionDay.aspx?OwnershipName=VotingOnElectionDay&amp;faqid=0)
-* [Track Your Absentee Ballot >>]https://voterportal.sos.la.gov/)
+* [Track Your Absentee Ballot >>](https://voterportal.sos.la.gov/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 

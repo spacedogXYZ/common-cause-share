@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/IOWA.png
 * [Find Your Polling Place >>](https://sos.iowa.gov/elections/voterreg/pollingplace/search.aspx)
 * [Absentee Voting Information >>](https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html)
 * [Voter ID Requirements >>](https://sos.iowa.gov/elections/voterinformation/edfaq.html#3)
-* [Track Your Absentee Ballot >>]https://sos.iowa.gov/elections/absenteeballotstatus/absentee/search)
+* [Track Your Absentee Ballot >>](https://sos.iowa.gov/elections/absenteeballotstatus/absentee/search)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 

@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/PENNSYLVANIA.png
 * [Find Your Polling Place >>](https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx)
 * [Absentee Voting Information >>](http://www.votespa.com/en-us/voting-and-elections/types-of-voting/Pages/Absentee-Ballot.aspx)
 * [Voter ID Requirements >>](https://www.votespa.com/Register-to-Vote/Pages/Voter-ID-for-First-Time-Voters.aspx)
-* [Track Your Absentee Ballot >>]https://www.pavoterservices.pa.gov/pages/ballottracking.aspx)
+* [Track Your Absentee Ballot >>](https://www.pavoterservices.pa.gov/pages/ballottracking.aspx)
 * [Voting FAQ >>](https://docs.google.com/document/d/1rgpgu7R8cbaMlgOA8qMLABNvXFnR48a4YAr_7BHxp10/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

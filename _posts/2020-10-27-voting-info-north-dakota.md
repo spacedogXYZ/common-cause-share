@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/NORTH-DAKOTA.png
 * [Find Your Polling Place >>](https://vip.sos.nd.gov/WhereToVote.aspx?tab=AddressandVotingTimes)
 * [Absentee Voting Information >>](http://www.nd.gov/sos/electvote/voting/voting-absentee.html)
 * [Voter ID Requirements >>](https://vip.sos.nd.gov/IDRequirements.aspx?ptlhPKID=103&amp;ptlPKID=7)
-* [Track Your Absentee Ballot >>]https://vip.sos.nd.gov/AbsenteeTracker.aspx)
+* [Track Your Absentee Ballot >>](https://vip.sos.nd.gov/AbsenteeTracker.aspx)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 

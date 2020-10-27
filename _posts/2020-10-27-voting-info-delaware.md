@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/DELAWARE.png
 * [Find Your Polling Place >>](https://ivote.de.gov/voterview)
 * [Absentee Voting Information >>](http://elections.delaware.gov/voter/absenteeballot.shtml)
 * [Voter ID Requirements >>](http://electionsncc.delaware.gov/faqs/voting.shtml#ques3b)
-* [Track Your Absentee Ballot >>]https://ivote.de.gov/voterview)
+* [Track Your Absentee Ballot >>](https://ivote.de.gov/voterview)
 * [Voting FAQ >>](https://docs.google.com/document/d/1AZSgZn4VLzp0VlxtFkm2IyjkU81dXxRZCN0FZ8mFd5A)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

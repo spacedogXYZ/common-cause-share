@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/VERMONT.png
 * [Find Your Polling Place >>](https://www.mvp.sec.state.vt.us/)
 * [Absentee Voting Information >>](https://sos.vermont.gov/elections/voters/early-absentee-voting/)
 * [Voter ID Requirements >>](https://sos.vermont.gov/elections/voters/registration/)
-* [Track Your Absentee Ballot >>]https://mvp.vermont.gov/)
+* [Track Your Absentee Ballot >>](https://mvp.vermont.gov/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 

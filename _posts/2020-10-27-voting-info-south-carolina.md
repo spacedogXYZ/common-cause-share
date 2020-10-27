@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/SOUTH-CAROLINA.png
 * [Find Your Polling Place >>](https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=VoterInfo)
 * [Absentee Voting Information >>](https://www.scvotes.org/absentee-voting)
 * [Voter ID Requirements >>](https://www.scvotes.org/node/235)
-* [Track Your Absentee Ballot >>]https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=AbsenteeInfo)
+* [Track Your Absentee Ballot >>](https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=AbsenteeInfo)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 

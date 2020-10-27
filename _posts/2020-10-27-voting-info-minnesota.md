@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/MINNESOTA.png
 * [Find Your Polling Place >>](http://pollfinder.sos.state.mn.us/)
 * [Absentee Voting Information >>](https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/)
 * [Voter ID Requirements >>](http://www.sos.state.mn.us/elections-voting/election-day-voting/do-i-need-to-bring-id/)
-* [Track Your Absentee Ballot >>]https://mnvotes.sos.state.mn.us/AbsenteeBallotStatus.aspx)
+* [Track Your Absentee Ballot >>](https://mnvotes.sos.state.mn.us/AbsenteeBallotStatus.aspx)
 * [Voting FAQ >>](https://docs.google.com/document/d/1__n1xF09XDpSLImRBWXQMkSvbqraPNIBkN1_-_eTH_c/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

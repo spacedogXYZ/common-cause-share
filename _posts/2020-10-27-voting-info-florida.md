@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/FLORIDA.png
 * [Find Your Polling Place >>](http://registration.elections.myflorida.com/)
 * [Absentee Voting Information >>](https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/)
 * [Voter ID Requirements >>](https://dos.myflorida.com/elections/for-voters/voting/election-day-voting/)
-* [Track Your Absentee Ballot >>]https://registration.elections.myflorida.com/CheckVoterStatus)
+* [Track Your Absentee Ballot >>](https://registration.elections.myflorida.com/CheckVoterStatus)
 * [Voting FAQ >>](https://docs.google.com/document/d/1oOHSzbdwrZ0QZc2aY3GR1ygfghPV-LgXUB52_heLhlk/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

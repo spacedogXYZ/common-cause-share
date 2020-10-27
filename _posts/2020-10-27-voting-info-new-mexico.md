@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/NEW-MEXICO.png
 * [Find Your Polling Place >>](https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx)
 * [Absentee Voting Information >>](http://www.sos.state.nm.us/Voter_Information/Absentee_and_Early_Voting.aspx)
 * [Voter ID Requirements >>](http://www.sos.state.nm.us/Voter_Information/voting-2.aspx)
-* [Track Your Absentee Ballot >>]https://voterportal.servis.sos.state.nm.us/wheretovote.aspx)
+* [Track Your Absentee Ballot >>](https://voterportal.servis.sos.state.nm.us/wheretovote.aspx)
 * [Voting FAQ >>](https://docs.google.com/document/d/11fDbFwvYOaZKWwzqWDuLFkkrO-f1fvBoO6hfcO6PTOM/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

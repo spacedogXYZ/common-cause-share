@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/MICHIGAN.png
 * [Find Your Polling Place >>](https://mvic.sos.state.mi.us/Voter/index)
 * [Absentee Voting Information >>](http://www.michigan.gov/sos/0)
 * [Voter ID Requirements >>](http://www.michigan.gov/sos/0,4670,7-127-1633_8716-178123--,00.html)
-* [Track Your Absentee Ballot >>]https://www.michigan.gov/sos/0)
+* [Track Your Absentee Ballot >>](https://www.michigan.gov/sos/0)
 * [Voting FAQ >>](https://docs.google.com/document/d/1t471aOmNXCkSQ4WjvcJgMNNpIH7QFZtsGNbOjCfbB-U/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

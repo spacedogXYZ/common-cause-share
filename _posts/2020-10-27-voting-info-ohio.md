@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/OHIO.png
 * [Find Your Polling Place >>](https://www.sos.state.oh.us/elections/voters/toolkit/polling-location/)
 * [Absentee Voting Information >>](https://www.sos.state.oh.us/elections/voters/absentee-voting/#byMail)
 * [Voter ID Requirements >>](https://www.sos.state.oh.us/elections/voters/id-requirements/)
-* [Track Your Absentee Ballot >>]https://www.sos.state.oh.us/elections/voters/toolkit/ballot-tracking/)
+* [Track Your Absentee Ballot >>](https://www.sos.state.oh.us/elections/voters/toolkit/ballot-tracking/)
 * [Voting FAQ >>](https://docs.google.com/document/d/1rgpgu7R8cbaMlgOA8qMLABNvXFnR48a4YAr_7BHxp10/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

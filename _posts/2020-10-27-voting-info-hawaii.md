@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/HAWAII.png
 * [Find Your Polling Place >>](https://elections.hawaii.gov/voter-service-centers-and-places-of-deposit/)
 * [Absentee Voting Information >>](https://elections.hawaii.gov/frequently-asked-questions/voting-by-mail/)
 * [Voter ID Requirements >>](https://elections.hawaii.gov/voters/hawaii-votes-by-mail/)
-* [Track Your Absentee Ballot >>]https://ballotstatus.hawaii.gov/ballotreceipt)
+* [Track Your Absentee Ballot >>](https://ballotstatus.hawaii.gov/ballotreceipt)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 

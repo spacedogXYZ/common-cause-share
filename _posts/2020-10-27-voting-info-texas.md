@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/TEXAS.png
 * [Find Your Polling Place >>](https://teamrv-mvp.sos.texas.gov/MVP/mvp.do)
 * [Absentee Voting Information >>](https://sos.tn.gov/products/elections/absentee-voting)
 * [Voter ID Requirements >>](https://www.votetexas.gov/faq/index.html)
-* [Track Your Absentee Ballot >>]https://tnmap.tn.gov/voterlookup/)
+* [Track Your Absentee Ballot >>](https://tnmap.tn.gov/voterlookup/)
 * [Voting FAQ >>](https://docs.google.com/document/d/1mx8lF0dS0zjPTKCXgu_YKUmgbskMomaXe-dHmbiuPno/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

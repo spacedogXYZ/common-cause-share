@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/CALIFORNIA.png
 * [Find Your Polling Place >>](https://www.sos.ca.gov/elections/polling-place)
 * [Absentee Voting Information >>](https://www.sos.ca.gov/elections/voter-registration/vote-mail#vote-by-mail)
 * [Voter ID Requirements >>](https://www.sos.ca.gov/elections/voting-resources/voting-california/what-bring/)
-* [Track Your Absentee Ballot >>]https://www.sos.ca.gov/elections/ballot-status/wheres-my-ballot)
+* [Track Your Absentee Ballot >>](https://www.sos.ca.gov/elections/ballot-status/wheres-my-ballot)
 * [Voting FAQ >>](https://docs.google.com/document/d/17jrLXtxWuZaiH_CaQiKr8u-XLTdt_5WJKYK5RmS1deA/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

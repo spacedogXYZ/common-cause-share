@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/WISCONSIN.png
 * [Find Your Polling Place >>](https://myvote.wi.gov/en-us/FindMyPollingPlace)
 * [Absentee Voting Information >>](https://elections.wi.gov/voters/absentee)
 * [Voter ID Requirements >>](https://elections.wi.gov/elections-voting/photo-id)
-* [Track Your Absentee Ballot >>]https://myvote.wi.gov/en-US/MyVoterInfo)
+* [Track Your Absentee Ballot >>](https://myvote.wi.gov/en-US/MyVoterInfo)
 * [Voting FAQ >>](https://docs.google.com/document/d/15Sl9ji8dlAxDbbLC-8DRvfWeZTtHs5KHa29a7v33le8/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/NEVADA.png
 * [Find Your Polling Place >>](https://nvsos.gov/votersearch/)
 * [Absentee Voting Information >>](https://www.nvsos.gov/sos/elections/voters/absentee-voting)
 * [Voter ID Requirements >>](https://www.nvsos.gov/sos/sos-information/office-facts/faqs-all-division/elections#472)
-* [Track Your Absentee Ballot >>]https://www.nvsos.gov/votersearch/)
+* [Track Your Absentee Ballot >>](https://www.nvsos.gov/votersearch/)
 * [Voting FAQ >>](https://docs.google.com/document/d/1TjnSBC5w2N5u_omjzgMJFXsawsoMJtwRD0rDoHd5BL0/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/TENNESSEE.png
 * [Find Your Polling Place >>](https://tnmap.tn.gov/voterlookup/)
 * [Absentee Voting Information >>](https://www.votetexas.gov/voting/when.html#early-voting)
 * [Voter ID Requirements >>](https://sos.tn.gov/products/elections/what-id-required-when-voting)
-* [Track Your Absentee Ballot >>]https://www.txballot.org/)
+* [Track Your Absentee Ballot >>](https://www.txballot.org/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 

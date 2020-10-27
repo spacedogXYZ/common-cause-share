@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/NEW-HAMPSHIRE.png
 * [Find Your Polling Place >>](https://app.sos.nh.gov/Public/PollingPlaceSearch.aspx)
 * [Absentee Voting Information >>](https://sos.nh.gov/elections/voters/absentee-ballots/)
 * [Voter ID Requirements >>](https://sos.nh.gov/elections/information/election-laws/voter-identification-law/)
-* [Track Your Absentee Ballot >>]https://app.sos.nh.gov/Public/AbsenteeBallot.aspx)
+* [Track Your Absentee Ballot >>](https://app.sos.nh.gov/Public/AbsenteeBallot.aspx)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 

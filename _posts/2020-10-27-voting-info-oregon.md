@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/OREGON.png
 * [Find Your Polling Place >>](http://www.sos.state.or.us/dropbox/)
 * [Absentee Voting Information >>](https://sos.oregon.gov/voting/Pages/voteinor.aspx)
 * [Voter ID Requirements >>](http://www.sos.state.or.us/elections/pages/faq/index.html#voting)
-* [Track Your Absentee Ballot >>]https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do)
+* [Track Your Absentee Ballot >>](https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do)
 * [Voting FAQ >>](https://docs.google.com/document/d/1rgpgu7R8cbaMlgOA8qMLABNvXFnR48a4YAr_7BHxp10/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

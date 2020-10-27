@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/COLORADO.png
 * [Find Your Polling Place >>](https://www.sos.state.co.us/pubs/elections/VIP.html)
 * [Absentee Voting Information >>](https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html)
 * [Voter ID Requirements >>](http://www.sos.state.co.us/pubs/elections/vote/acceptableFormsOfID.html)
-* [Track Your Absentee Ballot >>]https://colorado.ballottrax.net/voter/)
+* [Track Your Absentee Ballot >>](https://colorado.ballottrax.net/voter/)
 * [Voting FAQ >>](https://docs.google.com/document/d/1_1T8HWdw4WuRV_2g1kjXzYxgJ3tTeCTKUz0HR4DgDSY/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

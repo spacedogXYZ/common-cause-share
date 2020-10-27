@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/MASSACHUSETTS.png
 * [Find Your Polling Place >>](http://www.wheredoivotema.com/bal/myelectioninfo.aspx)
 * [Absentee Voting Information >>](http://www.sec.state.ma.us/ele/eleabsentee/absidx.htm)
 * [Voter ID Requirements >>](http://www.sec.state.ma.us/ele/eleidreq/idrequirementsidx.htm)
-* [Track Your Absentee Ballot >>]https://www.sec.state.ma.us/wheredoivotema/track/trackmyballot.aspx)
+* [Track Your Absentee Ballot >>](https://www.sec.state.ma.us/wheredoivotema/track/trackmyballot.aspx)
 * [Voting FAQ >>](https://docs.google.com/document/d/1PU9S4ytY2JmSizJUISJWfPx_dJLzQ7rCsmloKet7u3c/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**

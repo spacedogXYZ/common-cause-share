@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/SOUTH-DAKOTA.png
 * [Find Your Polling Place >>](https://vip.sdsos.gov/VIPLogin.aspx)
 * [Absentee Voting Information >>](https://sdsos.gov/elections-voting/voting/absentee-voting.aspx)
 * [Voter ID Requirements >>](https://sdsos.gov/elections-voting/voting/default.aspx)
-* [Track Your Absentee Ballot >>]https://vip.sdsos.gov/VIPLogin.aspx)
+* [Track Your Absentee Ballot >>](https://vip.sdsos.gov/VIPLogin.aspx)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 

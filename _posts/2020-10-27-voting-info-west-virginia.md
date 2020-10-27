@@ -16,7 +16,7 @@ share_image: /assets/uploads/state-share-images/WEST-VIRGINIA.png
 * [Find Your Polling Place >>](https://apps.sos.wv.gov/elections/voter/index.aspx)
 * [Absentee Voting Information >>](https://sos.wv.gov/elections/Pages/AbsenteeVotingInformation.aspx)
 * [Voter ID Requirements >>](https://sos.wv.gov/elections/Pages/FAQs.aspx)
-* [Track Your Absentee Ballot >>]https://services.sos.wv.gov/Elections/Voter/AbsenteeBallotTracking)
+* [Track Your Absentee Ballot >>](https://services.sos.wv.gov/Elections/Voter/AbsenteeBallotTracking)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 
