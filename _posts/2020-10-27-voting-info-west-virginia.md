@@ -1,13 +1,13 @@
 ---
 layout: post
 lang: en
-permalink: /voting-info/west virginia
-shortlink: /vote-west virginia
+permalink: /voting-info/west-virginia
+shortlink: /vote-west-virginia
 title: "West Virginia - Call 866-OUR-VOTE if you need help voting!"
 share_header: "Spread The Word"
 share_subhead: "Use these sharing tools to post trusted, reliable West Virginia voting information!"
 share_text: "West Virginia: know your voting rights! Call 866-OUR-VOTE if you need help voting, or use these official resources."
-share_image: /assets/uploads/state-share-images/WEST VIRGINIA.png
+share_image: /assets/uploads/state-share-images/WEST-VIRGINIA.png
 ---
 ### **If you have any issues or questions while voting, [call 866-OUR-VOTE](tel:8666878683) for nonpartisan assistance.**
 

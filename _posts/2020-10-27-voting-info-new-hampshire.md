@@ -1,13 +1,13 @@
 ---
 layout: post
 lang: en
-permalink: /voting-info/new hampshire
-shortlink: /vote-new hampshire
+permalink: /voting-info/new-hampshire
+shortlink: /vote-new-hampshire
 title: "New Hampshire - Call 866-OUR-VOTE if you need help voting!"
 share_header: "Spread The Word"
 share_subhead: "Use these sharing tools to post trusted, reliable New Hampshire voting information!"
 share_text: "New Hampshire: know your voting rights! Call 866-OUR-VOTE if you need help voting, or use these official resources."
-share_image: /assets/uploads/state-share-images/NEW HAMPSHIRE.png
+share_image: /assets/uploads/state-share-images/NEW-HAMPSHIRE.png
 ---
 ### **If you have any issues or questions while voting, [call 866-OUR-VOTE](tel:8666878683) for nonpartisan assistance.**
 

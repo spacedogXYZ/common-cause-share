@@ -1,13 +1,13 @@
 ---
 layout: post
 lang: en
-permalink: /voting-info/north carolina
-shortlink: /vote-north carolina
+permalink: /voting-info/north-carolina
+shortlink: /vote-north-carolina
 title: "North Carolina - Call 866-OUR-VOTE if you need help voting!"
 share_header: "Spread The Word"
 share_subhead: "Use these sharing tools to post trusted, reliable North Carolina voting information!"
 share_text: "North Carolina: know your voting rights! Call 866-OUR-VOTE if you need help voting, or use these official resources."
-share_image: /assets/uploads/state-share-images/NORTH CAROLINA.png
+share_image: /assets/uploads/state-share-images/NORTH-CAROLINA.png
 ---
 ### **If you have any issues or questions while voting, [call 866-OUR-VOTE](tel:8666878683) for nonpartisan assistance.**
 

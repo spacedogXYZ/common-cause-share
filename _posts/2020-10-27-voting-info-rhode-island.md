@@ -1,13 +1,13 @@
 ---
 layout: post
 lang: en
-permalink: /voting-info/rhode island
-shortlink: /vote-rhode island
+permalink: /voting-info/rhode-island
+shortlink: /vote-rhode-island
 title: "Rhode Island - Call 866-OUR-VOTE if you need help voting!"
 share_header: "Spread The Word"
 share_subhead: "Use these sharing tools to post trusted, reliable Rhode Island voting information!"
 share_text: "Rhode Island: know your voting rights! Call 866-OUR-VOTE if you need help voting, or use these official resources."
-share_image: /assets/uploads/state-share-images/RHODE ISLAND.png
+share_image: /assets/uploads/state-share-images/RHODE-ISLAND.png
 ---
 ### **If you have any issues or questions while voting, [call 866-OUR-VOTE](tel:8666878683) for nonpartisan assistance.**
 

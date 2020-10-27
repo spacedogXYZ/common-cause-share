@@ -1,13 +1,13 @@
 ---
 layout: post
 lang: en
-permalink: /voting-info/new mexico
-shortlink: /vote-new mexico
+permalink: /voting-info/new-mexico
+shortlink: /vote-new-mexico
 title: "New Mexico - Call 866-OUR-VOTE if you need help voting!"
 share_header: "Spread The Word"
 share_subhead: "Use these sharing tools to post trusted, reliable New Mexico voting information!"
 share_text: "New Mexico: know your voting rights! Call 866-OUR-VOTE if you need help voting, or use these official resources."
-share_image: /assets/uploads/state-share-images/NEW MEXICO.png
+share_image: /assets/uploads/state-share-images/NEW-MEXICO.png
 ---
 ### **If you have any issues or questions while voting, [call 866-OUR-VOTE](tel:8666878683) for nonpartisan assistance.**
 

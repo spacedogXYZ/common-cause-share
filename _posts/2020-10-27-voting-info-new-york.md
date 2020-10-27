@@ -1,13 +1,13 @@
 ---
 layout: post
 lang: en
-permalink: /voting-info/new york
-shortlink: /vote-new york
+permalink: /voting-info/new-york
+shortlink: /vote-new-york
 title: "New York - Call 866-OUR-VOTE if you need help voting!"
 share_header: "Spread The Word"
 share_subhead: "Use these sharing tools to post trusted, reliable New York voting information!"
 share_text: "New York: know your voting rights! Call 866-OUR-VOTE if you need help voting, or use these official resources."
-share_image: /assets/uploads/state-share-images/NEW YORK.png
+share_image: /assets/uploads/state-share-images/NEW-YORK.png
 ---
 ### **If you have any issues or questions while voting, [call 866-OUR-VOTE](tel:8666878683) for nonpartisan assistance.**
 

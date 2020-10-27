@@ -1,13 +1,13 @@
 ---
 layout: post
 lang: en
-permalink: /voting-info/south carolina
-shortlink: /vote-south carolina
+permalink: /voting-info/south-carolina
+shortlink: /vote-south-carolina
 title: "South Carolina - Call 866-OUR-VOTE if you need help voting!"
 share_header: "Spread The Word"
 share_subhead: "Use these sharing tools to post trusted, reliable South Carolina voting information!"
 share_text: "South Carolina: know your voting rights! Call 866-OUR-VOTE if you need help voting, or use these official resources."
-share_image: /assets/uploads/state-share-images/SOUTH CAROLINA.png
+share_image: /assets/uploads/state-share-images/SOUTH-CAROLINA.png
 ---
 ### **If you have any issues or questions while voting, [call 866-OUR-VOTE](tel:8666878683) for nonpartisan assistance.**
 

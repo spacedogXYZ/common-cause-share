@@ -22,13 +22,13 @@ def write_posts(data):
                 ---
                 layout: post
                 lang: en
-                permalink: {row['permalink']}
-                shortlink: {row['shortlink']}
+                permalink: {row['permalink'].replace(' ','-')}
+                shortlink: {row['shortlink'].replace(' ','-')}
                 title: "{row['title']}"
                 share_header: "{row['share header']}"
                 share_subhead: "{row['share subhead']}"
                 share_text: "{row['share text']}"
-                share_image: /assets/uploads/state-share-images{row['image location']}
+                share_image: /assets/uploads/state-share-images{row['image location'].replace(' ','-')}
                 ---
             """).lstrip()
             outfile.write(header)
