@@ -2,7 +2,6 @@
 layout: post
 lang: en
 permalink: election-night-is-not-results-night
-shortlink: election-night-is-not-results-night
 title: Election Night is not Results Night -- We Must Count Every Vote
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word

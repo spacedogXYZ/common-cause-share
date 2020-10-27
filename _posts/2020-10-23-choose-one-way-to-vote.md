@@ -2,7 +2,6 @@
 layout: post
 lang: en
 permalink: choose-one-way-to-vote
-shortlink: choose-one-way-to-vote
 title: Choose One Way to Vote
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word

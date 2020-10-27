@@ -2,7 +2,6 @@
 layout: post
 lang: en
 permalink: trust-vote-by-mail
-shortlink: trust-vote-by-mail
 title: Vote by Mail is Safe and Secure
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word

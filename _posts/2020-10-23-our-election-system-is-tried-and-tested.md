@@ -2,7 +2,6 @@
 layout: post
 lang: en
 permalink: tried-and-tested
-shortlink: tried-and-tested
 title: Our Election System is Tried and Tested
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
