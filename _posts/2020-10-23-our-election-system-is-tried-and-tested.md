@@ -14,7 +14,7 @@ share_text: We all care about the security and integrity of our elections and
   willingness to vote. Your vote matters. We’re all better off when our
   elections reflect everyone in our community. If you have questions or need
   help, call or text 866-OUR-VOTE (866-687-8683).
-share_image: /assets/uploads/electoralsystem-fb-twtr.png
+share_image: /assets/uploads/updated-facebook-twitter-distrustprocess_makeacopy.jpg
 ---
 We all care about the security and integrity of our elections and we’re encouraged by the quick work of election officials to address errors, when and if they arise. Some politicians try to use these errors to make us feel insecure about the election and make us believe that our votes won’t count. We cannot let these efforts affect our confidence in our system or our willingness to vote. Your vote matters. We’re all better off when our elections reflect everyone in our community. If you have questions or need help, call or text 866-OUR-VOTE (866-687-8683).
 
