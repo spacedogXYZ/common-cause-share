@@ -18,7 +18,7 @@ share_image: /assets/uploads/state-share-images/TEXAS.png
 * [Absentee Voting Information >>](https://www.votetexas.gov/voting/when.html#early-voting)
 * [Voter ID Requirements >>](https://www.votetexas.gov/faq/index.html)
 * [Track Your Absentee Ballot >>](https://www.txballot.org/)
-* [Voting FAQ >>](https://docs.google.com/document/d/1mx8lF0dS0zjPTKCXgu_YKUmgbskMomaXe-dHmbiuPno/)
+* [Voting FAQ >>](https://docs.google.com/document/d/1Py7DDWiya9KaUtZldGkghEuRBDDtHhQad6z4cGKk8Ik/edit?usp=sharing)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 
