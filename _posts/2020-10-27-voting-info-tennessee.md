@@ -3,10 +3,11 @@ layout: post
 lang: en
 permalink: /voting-info/tennessee
 shortlink: /vote-tennessee
-title: "Tennessee - Call 866-OUR-VOTE if you need help voting!"
-share_header: "Spread The Word"
-share_subhead: "Use these sharing tools to post trusted, reliable Tennessee voting information!"
-share_text: "Tennessee: know your voting rights! Call 866-OUR-VOTE if you need help voting, or use these official resources."
+title: Tennessee - Call 866-OUR-VOTE if you need help voting!
+share_header: Spread The Word
+share_subhead: Use these sharing tools to post trusted, reliable Tennessee voting information!
+share_text: "Tennessee: know your voting rights! Call 866-OUR-VOTE if you need
+  help voting, or use these official resources."
 share_image: /assets/uploads/state-share-images/TENNESSEE.png
 ---
 ### **If you have any issues or questions while voting, [call 866-OUR-VOTE](tel:8666878683) for nonpartisan assistance.**
@@ -14,9 +15,9 @@ share_image: /assets/uploads/state-share-images/TENNESSEE.png
 **You can also find reliable voting information on these official state websites:**
 
 * [Find Your Polling Place >>](https://tnmap.tn.gov/voterlookup/)
-* [Absentee Voting Information >>](https://www.votetexas.gov/voting/when.html#early-voting)
-* [Voter ID Requirements >>](https://sos.tn.gov/products/elections/what-id-required-when-voting)
-* [Track Your Absentee Ballot >>](https://www.txballot.org/)
+* [Absentee Voting Information >>](https://sos.tn.gov/products/elections/absentee-voting)
+* [Voter ID Requirements >>](https://tnmap.tn.gov/voterlookup/https://sos.tn.gov/products/elections/what-id-required-when-voting)
+* [Track Your Absentee Ballot >>](https://tnmap.tn.gov/voterlookup/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 
