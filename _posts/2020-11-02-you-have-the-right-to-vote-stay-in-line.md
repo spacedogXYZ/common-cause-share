@@ -9,7 +9,7 @@ share_subhead: Use these sharing tools to spread the word
 share_text: If you are in line to vote, stay in line. Please know you are
   allowed to vote as long as you are in line before the polls close! If you have
   questions or need help, call or text 866-OUR-VOTE (866-687-8683).
-share_image: /assets/uploads/copy-of-facebook-twitter-longlines_makeacopy-1-.png
+share_image: /assets/uploads/copy-of-facebook-twitter-longlines_makeacopy-2-.png
 ---
 If you are in line to vote, stay in line. Please know you are allowed to vote as long as you are in line before the polls close! 
 
