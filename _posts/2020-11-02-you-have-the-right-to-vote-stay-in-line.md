@@ -3,7 +3,8 @@ layout: post
 lang: en
 permalink: /2020/11/03/stay-in-line/
 shortlink: stay-in-line
-title: You Have The Right To Vote -- Stay In Line!
+title: You Have The Right To Vote -- Stay In Line And Call 866-OUR-VOTE With
+  Questions!
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
 share_text: If you are in line to vote, stay in line. Please know you are
