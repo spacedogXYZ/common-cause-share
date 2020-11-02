@@ -3,10 +3,11 @@ layout: post
 lang: en
 permalink: /voting-info/wisconsin
 shortlink: /vote-wisconsin
-title: "Wisconsin - Call 866-OUR-VOTE if you need help voting!"
-share_header: "Spread The Word"
-share_subhead: "Use these sharing tools to post trusted, reliable Wisconsin voting information!"
-share_text: "Wisconsin: know your voting rights! Call 866-OUR-VOTE if you need help voting, or use these official resources."
+title: Wisconsin - Call 866-OUR-VOTE if you need help voting!
+share_header: Spread The Word
+share_subhead: Use these sharing tools to post trusted, reliable Wisconsin voting information!
+share_text: "Wisconsin: know your voting rights! Call 866-OUR-VOTE if you need
+  help voting, or use these official resources."
 share_image: /assets/uploads/state-share-images/WISCONSIN.png
 ---
 ### **If you have any issues or questions while voting, [call 866-OUR-VOTE](tel:8666878683) for nonpartisan assistance.**
@@ -17,7 +18,7 @@ share_image: /assets/uploads/state-share-images/WISCONSIN.png
 * [Absentee Voting Information >>](https://elections.wi.gov/voters/absentee)
 * [Voter ID Requirements >>](https://elections.wi.gov/elections-voting/photo-id)
 * [Track Your Absentee Ballot >>](https://myvote.wi.gov/en-US/MyVoterInfo)
-* [Voting FAQ >>](https://docs.google.com/document/d/15Sl9ji8dlAxDbbLC-8DRvfWeZTtHs5KHa29a7v33le8/)
+* [Voting FAQ >>](https://docs.google.com/document/d/1qRhUttxfxr2B9Q7UnzldxWzvmuEDEdkC071R93dU9cg/)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 
