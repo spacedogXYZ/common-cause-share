@@ -3,7 +3,7 @@ layout: post
 lang: en
 permalink: /2020/11/03/ignore-hoaxes
 shortlink: 2020/11/03/ignore-hoaxes
-title: Ignore Hoxes - Call 866-OUR-VOTE With Questions!
+title: Ignore Hoaxes - Call 866-OUR-VOTE With Questions!
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
 share_text: Some voters received emails, text messages or robocalls – or saw
