@@ -16,4 +16,6 @@ We the People are showing that nothing can stop us from voting this year.
 
 Some lines look long due to social-distancing measures, and many lines move quickly. If you’re still in line at the time polls close, stay in line! 
 
-You can still vote. Your vote is your voice, so make sure it is heard this election. If you experience problems or have trouble voting, please be sure to call the Election Protection Hotline at 866-OUR-VOTE and speak with a nonpartisan trained volunteer!
+You can still vote. Your vote is your voice, so make sure it is heard this election. 
+
+### If you experience problems or have trouble voting, please be sure to call the Election Protection Hotline at [866-OUR-VOTE](tel:8666878683) and speak with a nonpartisan trained volunteer!
