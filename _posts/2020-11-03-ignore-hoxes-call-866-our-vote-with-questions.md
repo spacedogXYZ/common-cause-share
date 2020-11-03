@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /2020/11/03/ignore-hoaxes
-shortlink: ignore-hoaxes
+shortlink: 2020/11/03/ignore-hoaxes
 title: Ignore Hoxes - Call 866-OUR-VOTE With Questions!
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
