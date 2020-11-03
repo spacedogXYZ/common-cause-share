@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-permalink: call-866ourvote-before-provisional
+permalink: /call-866ourvote-before-provisional
 shortlink: call-866ourvote-before-provisional
 title: Call 866-OUR-VOTE Before You Accept a Provisional Ballot
 share_header: You're almost done!
