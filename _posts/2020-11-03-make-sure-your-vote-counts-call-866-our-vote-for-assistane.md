@@ -8,8 +8,8 @@ share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
 share_text: "In most states, you can track your mail-in ballot’s status. In some
   states, if your ballot cannot be verified, you can provide more info so it can
-  be counted. Check the rules/deadlines in your state. Have questions? Call your
-  elections office or 866-OUR-VOTE. #protectourvote"
+  be counted. Have questions? Call your elections office or 866-OUR-VOTE.
+  #protectourvote"
 share_image: /assets/uploads/cureballots-fb-twtr-2-.png
 ---
 Did you know that most states allow you to track your mail-in ballot online to see if it was received, verified, and counted?
