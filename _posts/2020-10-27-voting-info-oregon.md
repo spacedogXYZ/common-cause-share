@@ -3,10 +3,11 @@ layout: post
 lang: en
 permalink: /voting-info/oregon
 shortlink: /vote-oregon
-title: "Oregon - Call 866-OUR-VOTE if you need help voting!"
-share_header: "Spread The Word"
-share_subhead: "Use these sharing tools to post trusted, reliable Oregon voting information!"
-share_text: "Oregon: know your voting rights! Call 866-OUR-VOTE if you need help voting, or use these official resources."
+title: Oregon - Call 866-OUR-VOTE if you need help voting!
+share_header: Spread The Word
+share_subhead: Use these sharing tools to post trusted, reliable Oregon voting information!
+share_text: "Oregon: know your voting rights! Call 866-OUR-VOTE if you need help
+  voting, or use these official resources."
 share_image: /assets/uploads/state-share-images/OREGON.png
 ---
 ### **If you have any issues or questions while voting, [call 866-OUR-VOTE](tel:8666878683) for nonpartisan assistance.**
@@ -17,7 +18,7 @@ share_image: /assets/uploads/state-share-images/OREGON.png
 * [Absentee Voting Information >>](https://sos.oregon.gov/voting/Pages/voteinor.aspx)
 * [Voter ID Requirements >>](http://www.sos.state.or.us/elections/pages/faq/index.html#voting)
 * [Track Your Absentee Ballot >>](https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do)
-* [Voting FAQ >>](https://docs.google.com/document/d/1rgpgu7R8cbaMlgOA8qMLABNvXFnR48a4YAr_7BHxp10/)
+* [Voting FAQ >>](https://docs.google.com/document/d/1Tgg58Rtc_0bg0fmaadaRaaDiaDKelf024KufxvyEADU/edit)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 
