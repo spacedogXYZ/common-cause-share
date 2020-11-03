@@ -3,7 +3,8 @@ layout: post
 lang: en
 permalink: 2020/11/03/stay-in-line
 shortlink: stay-in-line
-title: If you're in line when polls close, stay in line!
+title: If you're in line when polls close, stay in line - call 866-OUR-VOTE with
+  questions!
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
 share_text: " If you’re still in line at the time polls close, stay in line! You
