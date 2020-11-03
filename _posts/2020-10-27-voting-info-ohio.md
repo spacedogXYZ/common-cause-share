@@ -3,10 +3,11 @@ layout: post
 lang: en
 permalink: /voting-info/ohio
 shortlink: /vote-ohio
-title: "Ohio - Call 866-OUR-VOTE if you need help voting!"
-share_header: "Spread The Word"
-share_subhead: "Use these sharing tools to post trusted, reliable Ohio voting information!"
-share_text: "Ohio: know your voting rights! Call 866-OUR-VOTE if you need help voting, or use these official resources."
+title: Ohio - Call 866-OUR-VOTE if you need help voting!
+share_header: Spread The Word
+share_subhead: Use these sharing tools to post trusted, reliable Ohio voting information!
+share_text: "Ohio: know your voting rights! Call 866-OUR-VOTE if you need help
+  voting, or use these official resources."
 share_image: /assets/uploads/state-share-images/OHIO.png
 ---
 ### **If you have any issues or questions while voting, [call 866-OUR-VOTE](tel:8666878683) for nonpartisan assistance.**
@@ -17,7 +18,7 @@ share_image: /assets/uploads/state-share-images/OHIO.png
 * [Absentee Voting Information >>](https://www.sos.state.oh.us/elections/voters/absentee-voting/#byMail)
 * [Voter ID Requirements >>](https://www.sos.state.oh.us/elections/voters/id-requirements/)
 * [Track Your Absentee Ballot >>](https://www.sos.state.oh.us/elections/voters/toolkit/ballot-tracking/)
-* [Voting FAQ >>](https://docs.google.com/document/d/1rgpgu7R8cbaMlgOA8qMLABNvXFnR48a4YAr_7BHxp10/)
+* [Voting FAQ >>](https://docs.google.com/document/d/1HJOUuRLqZdH0SOIfuJ9UvZUmc5uHoJbVuesQr88Rwvo/edit?usp=sharing)
 
 **Use the buttons on this page to help share this helpful voting information with your community -- and help your friends, family, and neighbors cast their ballots safely!**
 
