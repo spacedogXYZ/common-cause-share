@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://share.commoncause.org" # the base hostname & protocol for your site, e.g. http://example.com
 fb_app_id: 3112531338794556
+twitter_site: CommonCause
 gtm_id: GTM-PKS6C62
 
 collections:

@@ -5,11 +5,13 @@
 <title>{% if page.title %}{{ page.title | strip_html }} | {% endif %}{{ site.title }}</title>
 
 <meta property="fb:app_id" content="{{ site.fb_app_id }}" />
+<meta name="twitter:site" content="@{{ site.twitter_site }}">
 <meta property="og:type" content="website" />
 {% assign description = page.share_text | default: site.description %}
 {% if description %}
 <meta name="description" content="{{ description }}">
 <meta property="og:description" content="{{ description }}" />
+<meta property="twitter:description" content="{{ description }}" />
 {% endif %}
 
 {% capture url %}{{site.url}}{{page.url}}{% endcapture %}
@@ -17,10 +19,13 @@
 
 {% if page.title %}
 <meta property="og:title" content="{{page.title}}" />
+<meta property="twitter:title" content="{{page.title}}" />
 {% endif %}
 
 {% if page.share_image %}
 <meta property="og:image" content="{{site.url}}{{page.share_image}}" />
+<meta property="twitter:image" content="{{site.url}}{{page.share_image}}" />
+<meta name="twitter:card" content="summary_large_image">
 {% endif %}
 
 
