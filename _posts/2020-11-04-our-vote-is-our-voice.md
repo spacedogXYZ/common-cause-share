@@ -8,8 +8,7 @@ share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
 share_text: "We the people proved nothing can stop us from making our voices
   heard in elections. Now we must ensure that every vote counts and every voice
-  is heard. Election officials need to do their job to ensure every vote is
-  accurately and securely counted and certified. #CountEveryVote (edited) "
+  is heard. #CountEveryVote"
 share_image: /assets/uploads/ourvoice-fb-twtr.png
 ---
 We the people, proved nothing can stop us from making our voices heard in elections. 
