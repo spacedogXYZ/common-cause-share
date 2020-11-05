@@ -11,7 +11,7 @@ share_text: We The People proved nothing can stop us from making our voices
   election officials are doing their job to ensure every vote is accurately,
   fairly and securely counted and certified.
 share_image: /assets/uploads/ourvoice-fb-twtr.png
-share_hashtags: "#CountEveryVote"
+share_hashtags: ""
 ---
 We The People proved nothing can stop us from making our voices heard in elections. 
 
