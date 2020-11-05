@@ -18,4 +18,4 @@ We have seen young people, Black and Brown people and people struggling to make 
 
 No candidate can legitimately claim victory before the total votes are counted and the will of the people is heard. 
 
-We need to let our election officials do their job to ensure every vote is accurately and securely counted before we declare a winner.[\#](https://paper.dropbox.com/?q=%23CountEveryVote)EveryVoteCounts
+We need to let our election officials do their job to ensure every vote is accurately and securely counted before we declare a winner.
