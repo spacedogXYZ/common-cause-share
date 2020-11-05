@@ -6,14 +6,12 @@ shortlink: moving-forward-together
 title: Moving Forward Together
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
-share_text: "We the people proved nothing can stop us from making our voices
-  heard in elections. Now we must ensure that every vote counts and every voice
-  is heard. Election officials need to do their job to ensure every vote is
-  accurately and securely counted and certified. #CountEveryVote (edited) "
+share_text: We The People proved nothing can stop us from making our voices
+  heard. Voters have done our job and turned out in record numbers. Now,
+  election officials are doing their job to ensure every vote is accurately,
+  fairly and securely counted and certified.
 share_image: /assets/uploads/forwardtogether-fb-twtr.png
 ---
-We the people, proved nothing can stop us from making our voices heard in elections. 
+We The People proved nothing can stop us from making our voices heard in elections.
 
-Now we must ensure that every vote counts and every voice is heard. We did not let anything get in the way of voting and we will not let anything get in the way of our votes being counted. The person we the voters have chosen should be the one sworn in as our president. 
-
-We need to let our election officials do their job to ensure every vote is accurately and securely counted and results are certified by election officials. #CountEveryVote
+Despite the pandemic and deliberate barriers, **voters have done our job** and turned out in record numbers. And now election officials are doing their job to ensure every vote is accurately and securely counted and results are certified.
