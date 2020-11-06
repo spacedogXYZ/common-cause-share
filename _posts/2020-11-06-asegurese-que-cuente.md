@@ -6,10 +6,12 @@ shortlink: asegurese-que-cuente
 title: ¡Asegúrese que cuente!
 share_header: ¡Ya casi termina!
 share_subhead: Utilice estas herramientas para compartir para correr la voz
-share_text: "Nosotros, los votantes, elegimos a nuestros líderes. Nuestros
-  líderes no eligen a sus votantes. Así es como funciona nuestra democracia.
-  Debemos exigir que se respete cada voto elegible y que los funcionarios
-  electorales puedan hacer su trabajo para #contarcadavoto"
+share_text: "¿Votó por correo o por una boleta provisional?  En la mayoría de
+  los estados puede verificar el estado de su boleta. Es posible que tenga que
+  aportar información adicional para asegurarse de que su voto sea contado.
+  #CadaVotoCuenta"
 share_image: /assets/uploads/facebook-twitter-postelexballotcure_makeacopy.png
 ---
-La base de la democracia estadounidense es que nosotros elegimos a nuestros líderes, nuestros líderes no eligen a sus votantes. Debemos contar cada voto porque la voz y la opinión de cada votante son importantes. Así es como funciona nuestra democracia. Ningún candidato puede reclamar legítimamente la victoria antes de que se cuente el total de votos y se escuche la voluntad del pueblo. Necesitamos dejar que nuestros funcionarios electorales hagan su trabajo para garantizar que cada voto se cuente de forma precisa y segura antes de declarar un ganador. #CadaVotoCuenta
+¿Votó por correo o por una boleta provisional?  En la mayoría de los estados puede verificar el estado de su boleta por correo o boleta provisional. Es posible que tenga que aportar información adicional para asegurarse de que su voto sea contado. 
+
+¡Actúe rápidamente ya que las fechas límites estatales se acercan rápidamente! Verifique su estado en \[vote.org/ballot-tracker-tools/](vote.org/ballot-tracker-tools/)
