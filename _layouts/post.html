@@ -14,7 +14,7 @@ main:
         {% endif %}
         {% if page.share_video %}
           <iframe class="usa-image"
-            width="560" height="315" src="{{ page.share_video|replace: '/watch?v=','/embed/' }}"
+            width="560" height="315" src="{{ page.share_video.url|replace: '/watch?v=','/embed/' }}"
             frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
           </iframe>
         {% elsif page.share_image %}

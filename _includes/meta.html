@@ -24,11 +24,11 @@
 
 {% if page.share_video %}
 <meta property="og:image" content="{{page.share_video.imageURL}}" />
-<meta property="og:video:url" content="{{ page.share_video|replace: '/watch?v=','/embed/'}}" />
+<meta property="og:video:url" content="{{ page.share_video.url|replace: '/watch?v=','/embed/'}}" />
 <meta property="og:video:type" content="text/html">
 
 <meta name="twitter:card" content="player">
-<meta property="twitter:player" content="{{ page.share_video|replace: '/watch?v=','/embed/'}}" />
+<meta property="twitter:player" content="{{ page.share_video.url|replace: '/watch?v=','/embed/'}}" />
 <meta property="twitter:image" content="{{page.share_video.imageURL}}" />
 {% elsif page.share_image %}
 <meta property="og:image" content="{{site.url}}{{page.share_image}}" />
