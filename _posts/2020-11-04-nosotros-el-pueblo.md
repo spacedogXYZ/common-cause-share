@@ -6,10 +6,10 @@ shortlink: nosotros-el-pueblo
 title: Nosotros El Pueblo
 share_header: ¡Ya casi termina!
 share_subhead: Utilice estas herramientas para compartir para correr la voz
-share_text: Debemos contar cada voto porque la voz de cada votante importa. Así
-  es como funciona nuestra democracia. Y ahora todos debemos unirnos para exigir
-  que se honre cada voto elegible. Necesitamos dejar que nuestros funcionarios
-  electorales hagan su trabajo para garantizar que se cuente cada voto.
-share_image: /assets/uploads/facebook-twitter-bigfight-wethepeople_makeacopy.png
+share_text: "Nosotros, los votantes, elegimos a nuestros líderes. Nuestros
+  líderes no eligen a sus votantes. Así es como funciona nuestra democracia.
+  Debemos exigir que se respete cada voto elegible y que los funcionarios
+  electorales puedan #contarcadavoto"
+share_image: /assets/uploads/facebook-twitter-bigfight-wethepeople_makeacopy-1-.png
 ---
-Debemos contar cada voto porque la voz y la opinión de cada votante es importante. Así es como funciona nuestra democracia. Hemos visto a jóvenes, personas de color y personas de bajos ingresos, superar barreras inaceptables para ejercer su derecho más básico como estadounidenses - el derecho al voto. Y ahora todos debemos unirnos para exigir que se honre cada voto elegible. Ningún candidato puede declarar legítimamente la victoria antes de que se cuente el total de votos y se escuche la voluntad de los votantes. Necesitamos dejar que nuestros funcionarios electorales hagan su trabajo para garantizar que cada voto se cuente de forma precisa y segura antes de declarar un ganador. #VeYVota
+La base de la democracia estadounidense es que nosotros elegimos a nuestros líderes, nuestros líderes no eligen a sus votantes. Debemos contar cada voto porque la voz y la opinión de cada votante son importantes. Así es como funciona nuestra democracia. Ningún candidato puede reclamar legítimamente la victoria antes de que se cuente el total de votos y se escuche la voluntad del pueblo. Necesitamos dejar que nuestros funcionarios electorales hagan su trabajo para garantizar que cada voto se cuente de forma precisa y segura antes de declarar un ganador. #CadaVotoCuenta
