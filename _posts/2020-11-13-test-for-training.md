@@ -8,6 +8,7 @@ share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
 share_text: Here is **some** sampl
 share_image: /assets/uploads/3awbluxe.png
+share_video: https://www.youtube.com/watch?v=T7VwpKUrLOk
 share_hashtags: hashtag, hashtag2
 ---
 Here is **some** sampl
