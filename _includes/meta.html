@@ -22,7 +22,13 @@
 <meta property="twitter:title" content="{{page.title}}" />
 {% endif %}
 
-{% if page.share_image %}
+{% if page.share_video %}
+<meta property="og:video" content="{{page.share_video}}" />
+<meta property="twitter:video" content="{{page.share_video}}" />
+<meta name="twitter:card" content="player">
+<meta property="og:image" content="{{page.share_video.imageURL}}" />
+<meta property="twitter:image" content="{{page.share_video.imageURL}}" />
+{% elsif page.share_image %}
 <meta property="og:image" content="{{site.url}}{{page.share_image}}" />
 <meta property="twitter:image" content="{{site.url}}{{page.share_image}}" />
 <meta name="twitter:card" content="summary_large_image">
