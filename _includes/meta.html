@@ -26,10 +26,14 @@
 <meta property="og:image" content="{{page.share_video.imageURL}}" />
 <meta property="og:video:url" content="{{ page.share_video.url|replace: '/watch?v=','/v/'}}" />
 <meta property="og:video:type" content="text/html">
+<meta property="og:video:width" content="1280">
+<meta property="og:video:height" content="720">
 
 <meta name="twitter:card" content="player">
 <meta property="twitter:player" content="{{ page.share_video.url|replace: '/watch?v=','/embed/'}}" />
 <meta property="twitter:image" content="{{page.share_video.imageURL}}" />
+<meta property="twitter:player:width" content="1280">
+<meta property="twitter:player:height" content="720">
 {% elsif page.share_image %}
 <meta property="og:image" content="{{site.url}}{{page.share_image}}" />
 <meta property="twitter:image" content="{{site.url}}{{page.share_image}}" />
