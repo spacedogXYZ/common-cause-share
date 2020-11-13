@@ -1,8 +1,8 @@
 ---
 layout: post
 lang: en
-permalink: /2020/11/12/moving-forward-together
-shortlink: moving-forward-together
+permalink: /2020/11/12/we-are-moving-forward-together
+shortlink: we-are-moving-forward-together
 title: Moving Forward Together
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
