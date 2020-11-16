@@ -15,8 +15,6 @@ share_video:
   imageURL: https://img.youtube.com/vi/T7VwpKUrLOk/maxresdefault.jpg
 share_hashtags: hashtag, hashtag2
 ---
-Here is **some** sampl
-
-
+Here is **some** sample
 
 ### content
