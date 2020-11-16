@@ -10,6 +10,7 @@ share_text: Here is **some** sampl
 share_image: /assets/uploads/3awbluxe.png
 share_video:
   url: https://www.youtube.com/watch?v=T7VwpKUrLOk
+  embedURL: https://www.youtube.com/embed/T7VwpKUrLOk
   id: T7VwpKUrLOk
   mediaType: video
   imageURL: https://img.youtube.com/vi/T7VwpKUrLOk/maxresdefault.jpg
