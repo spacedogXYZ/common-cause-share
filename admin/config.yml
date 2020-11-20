@@ -36,7 +36,7 @@ collections:
           default: "Use these sharing tools to spread the word", hint: "Sidebar secondary"}
       - {label: "Share Text", name: "share_text", widget: "string"}
       - {label: "Share Image", name: "share_image", widget: "image", required: false}
-      - {label: "Share Video", name: "share_video", hint: "Show video instead of image", required: false, widget: youtube, extraInfo: true, APIKey: "AIzaSyCWbPgh6Py5rl4Zzmu2AFGDCzjnrGMZRMs"}
+      - {label: "Share Video", name: "share_video", hint: "Show video instead of image", required: false, widget: youtube, extraInfo: true, APIkey: "AIzaSyCWbPgh6Py5rl4Zzmu2AFGDCzjnrGMZRMs"}
       - {label: "Share Hashtags", name: "share_hashtags", widget: "string", required: false}
   - name: "page"
     label: "Pages"
