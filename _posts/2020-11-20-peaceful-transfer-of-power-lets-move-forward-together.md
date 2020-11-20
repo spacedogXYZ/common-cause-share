@@ -12,5 +12,11 @@ share_text: "Democracy means we pick our leaders. No matter what we endure as a
   Because that’s what America does."
 share_image: ""
 share_hashtags: ForwardTogether
+share_video:
+  url: https://www.youtube.com/watch?v=ojmKNrRmT_Y
+  embedURL: https://www.youtube.com/embed/ojmKNrRmT_Y
+  id: ojmKNrRmT_Y
+  mediaType: video
+  imageURL: https://img.youtube.com/vi/ojmKNrRmT_Y/maxresdefault.jpg
 ---
 Americans agree that the basis of our democracy is that we pick our leaders. And that no matter what we endure as a country - pandemics, wars and hard times - the will of the people always prevails. Despite the many barriers to voting in 2020, we turned out in record numbers to make our voices heard. It’s time we move forward with the leaders we -- the people -- have chosen. Because that’s what America does.
