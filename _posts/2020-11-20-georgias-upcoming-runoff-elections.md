@@ -8,10 +8,10 @@ title: Georgia's Upcoming Runoff Elections
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
 share_text: "Georgia has several runoff elections coming up, and it's essential
-  that voters know when those elections will be held. To get more information
-  about GA's upcoming elections, click here:
+  that voters know when those elections will be held. To get more info about
+  GA's upcoming elections, click here:
   https://www.commoncause.org/georgia/democracy-wire/runoff/. Then, share that
-  info with your family and friends."
+  info with your friends."
 share_image: /assets/uploads/vote.jpg
 share_hashtags: gapol
 ---
