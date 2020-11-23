@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-permalink: 2020/11/23/our-time-now-hands
+permalink: /2020/11/23/our-time-now-hands
 shortlink: our-time-now-hands
 title: Our Time Now
 share_header: You're almost done!
