@@ -2,7 +2,7 @@
 layout: post
 lang: es
 permalink: /2020/11/24/Avanzando-Juntos
-shortlink: /Avanzando-Juntos
+shortlink: Avanzando_Juntos
 title: Avanzando Juntos
 share_header: ¡Ya casi termina!
 share_subhead: Utilice estas herramientas para compartir para correr la voz
