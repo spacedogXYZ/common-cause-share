@@ -3,7 +3,7 @@ layout: post
 lang: es
 permalink: /2020/11/03/avanzando-juntos
 shortlink: avanzando-juntos
-title: Avanzando Juntos
+title: Avanzando Juntos Post
 share_header: ¡Ya casi termina!
 share_subhead: Utilice estas herramientas para compartir para correr la voz
 share_text: Nosotros, el pueblo, demostramos que nada puede evitar que hagamos
