@@ -4,8 +4,8 @@ lang: es
 permalink: /2020/11/24/es-nuestro-tiempo
 shortlink: es-nuestro-tiempo
 title: Es Nuestro Tiempo
-share_header: You're almost done!
-share_subhead: Use these sharing tools to spread the word
+share_header: ¡Ya casi termina!
+share_subhead: Utilice estas herramientas para compartir para correr la voz
 share_text: "La democracia debe funcionar para todos. A pesar de barreras, nos
   presentamos en números nunca previstos para elegir nuevos líderes. Y ahora
   haremos que nuestro nuevo gobierno rinda cuentas para hacer crear un lugar
