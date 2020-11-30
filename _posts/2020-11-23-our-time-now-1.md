@@ -6,10 +6,10 @@ shortlink: Our-Time-Now
 title: Our Time Now
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
-share_text: "Democracy must work for all of us. Despite many barriers, we turned
-  out in record numbers to pick new leaders. And now we will hold our new
-  government to account - not to merely tackle the COVID crisis - but to make
-  this a place where all of us can thrive. #OurTimeNow"
+share_text: "Democracy must work for all of us. Despite barriers, we turned out
+  in record numbers to pick new leaders. Now we will hold our new government to
+  account - not just to tackle the COVID crisis, but to make this a place where
+  we all can thrive. #OurTimeNow "
 share_image: /assets/uploads/ourtimenow2.jpg
 ---
 <!--StartFragment-->
