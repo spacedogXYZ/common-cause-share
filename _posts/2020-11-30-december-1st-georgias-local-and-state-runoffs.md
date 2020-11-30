@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-permalink: /2020/11/28/GA-Runoff
+permalink: /20/11/28/GA-Runoff
 shortlink: GA-Runoff
 title: "December 1st: Georgia's Local and State Runoffs"
 share_header: You're almost done!
