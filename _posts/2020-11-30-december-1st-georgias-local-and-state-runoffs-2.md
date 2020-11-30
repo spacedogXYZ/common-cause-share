@@ -3,7 +3,7 @@ layout: post
 lang: en
 permalink: /20/11/29/GA-Runoff
 shortlink: GA-Runoff
-title: "December 1st: Georgia's Local and State Runoffs"
+title: "December 1st: Georgia's Local and State Runoff Elections"
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
 share_text: "Georgia has two runoff elections - local and state races on
