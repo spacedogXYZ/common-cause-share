@@ -10,6 +10,7 @@ share_text: "Georgia has two runoff elections - local and state races on
   December 1, federal races on January 5. Use www.mvp.sos.ga.gov to see if your
   ballot has local/state runoffs on December 1. If you do, make your voice heard
   in both elections! Be #VoteReady"
+share_image: /assets/uploads/ga-make-a-plan-facebook_makeacopy.png
 ---
 <!--StartFragment-->
 
