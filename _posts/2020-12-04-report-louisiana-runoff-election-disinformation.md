@@ -7,9 +7,9 @@ title: Report Louisiana Runoff Election Disinformation!
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
 share_text: If you see disinformation about voting in the December 5 Louisiana
-  runoffs in an online post or ad, do your part to stop the spread. Don't
-  engage, react or comment — that only means more people will see it! Do take a
-  screenshot to submit it to ReportDisinfo.org
+  runoffs online, do your part to stop the spread. Don't engage, react or
+  comment — that only means more people will see it! Do take a screenshot to
+  submit it to ReportDisinfo.org
 share_image: /assets/uploads/see-something-say-something2.jpg
 ---
 <!--StartFragment-->
