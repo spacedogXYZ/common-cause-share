@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-permalink: 20/12/3/LA-Our-Vote
+permalink: /20/12/3/LA-Our-Vote
 shortlink: LA-Our-Vote
 title: "December 5: Louisiana Runoff Election "
 share_header: You're almost done!
