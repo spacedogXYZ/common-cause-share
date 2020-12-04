@@ -7,7 +7,7 @@ shortlink: /voteGA
 title: "Georgians: Are you ready to vote in January?"
 share_header: Spread the word!
 share_subhead: Make sure your friends are ready to go for the January election.
-share_text: Voting has never been as important than it will be this January, in
+share_text: Voting has never been as important as it will be this January, in
   the midst of a high-stakes runoff election, but Georgians are running out of
   time to register. Register to vote or check your registration at
   commoncause.org/vote before 12/7.
