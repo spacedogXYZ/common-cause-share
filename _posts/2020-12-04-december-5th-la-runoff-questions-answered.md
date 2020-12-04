@@ -8,8 +8,8 @@ share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
 share_text: "Runoff elections are a regular and important part of the election
   process in Louisiana. For the December 5th runoff elections, be #VoteReady and
-  have all your questions answered by calling 866-OUR-VOTE, the Election
-  Protection hotline. Visit www.PowerCoalition.org for more info."
+  call 866-OUR-VOTE with all your election questions. Visit
+  www.PowerCoalition.org for more info."
 share_image: /assets/uploads/election-protection_votingquestions.jpg
 ---
-Runoff elections are a regular and important part of the election process in Louisiana. For the December 5th runoff elections, be #VoteReady and have all your questions answered by calling 866-OUR-VOTE, the Election Protection hotline. Visit www.PowerCoalition.org for more info.
+Runoff elections are a regular and important part of the election process in Louisiana. For the December 5th runoff elections, be #VoteReady and call 866-OUR-VOTE with all your election questions. Visit www.PowerCoalition.org for more info.
