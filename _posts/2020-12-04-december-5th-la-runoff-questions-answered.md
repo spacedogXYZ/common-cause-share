@@ -1,8 +1,8 @@
 ---
 layout: post
 lang: en
-permalink: 20/12/3/LA-Questions
-shortlink: /LA-Questions
+permalink: /20/12/3/LA-Questions
+shortlink: LA-Questions
 title: "December 5th: LA Runoff Questions Answered!"
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
