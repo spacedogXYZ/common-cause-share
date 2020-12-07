@@ -10,6 +10,6 @@ share_text: "Despite the barriers in our way, Americans showed that nothing will
   stop us. Young people, and Black, Brown, and Indigenous people cast their
   ballots in record numbers. Our votes counted. Our voices were heard. And
   #OurFutureIsBright."
-share_image: /assets/uploads/yourvotematters_fbtw_en.png
+share_image: /assets/uploads/facebook-twitter-postelection-hearts-stars-voices-heard.png
 ---
 Despite the barriers in our way, Americans showed that nothing will stop us. Young people, and Black, Brown, and Indigenous people cast their ballots in record numbers. Our votes counted. Our voices were heard. And #OurFutureIsBright.
