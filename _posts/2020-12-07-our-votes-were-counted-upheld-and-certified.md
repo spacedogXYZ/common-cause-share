@@ -10,7 +10,7 @@ share_text: "Democracy prevailed. Our votes were counted, upheld by the courts,
   and certified by the states. Our new president will be sworn in. And we move
   #ForwardTogether."
 share_video:
-  url: https://www.youtube.com/watchv=-PYSfQrx9hg&feature=youtu.b
+  url: https://www.youtube.com/watch?v=-PYSfQrx9hg
   id: -PYSfQrx9hg
   mediaType: video
   imageURL: https://img.youtube.com/vi/-PYSfQrx9hg/maxresdefault.jpg
