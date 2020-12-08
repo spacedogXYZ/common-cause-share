@@ -6,10 +6,10 @@ shortlink: forward-together-now
 title: Now, We Move Forward Together
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
-share_text: "Democracy means we pick our leaders. No matter what we endure as a
-  country -pandemics, wars, hard times- the will of the people always prevails.
-  It’s time we move #ForwardTogether with the leaders we the people chose.
-  Because that’s what America does."
+share_text: "We must move #ForwardTogether. Undermining elections hurts our
+  country. Leaders need to beat COVID + fix the economy instead of wasting time
+  contesting elections confirmed by judges + states. It’s time to accept the
+  results and tackle our challenges"
 share_image: /assets/uploads/thumbnail_movingforward_en_fbtw-1-.jpg
 ---
 <!--StartFragment-->
