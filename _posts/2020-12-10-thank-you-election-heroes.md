@@ -1,8 +1,8 @@
 ---
 layout: post
 lang: en
-permalink: /2020/12/10/election-heroes-thanks
-shortlink: election-heroes-thanks
+permalink: /2020/12/10/election-heroes-thank-you
+shortlink: election-heroes-thank-you
 title: Thank You, Election Heroes!
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
