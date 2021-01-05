@@ -14,4 +14,4 @@ share_image: /assets/uploads/avoidingprovisionalballots-fb-twtr.png
 ---
 While provisional ballots are an important last resort, a few simple steps can help you avoid the hassle. Before you go vote, check <https://www.mvp.sos.ga.gov/MVP/mvp.do> to: confirm your registration, double check your assigned polling place (it may have changed!), and learn the ID you need to vote. 
 
-Have a mail-in ballot but want to vote in person? Georgia allows you to vote in person without your absentee ballot, but if you have it, bring it in! If you are told to cast a provisional ballot, first call 866-OUR-VOTE for help.
+If you experience trouble casting a ballot, call 866-OUR-VOTE to speak to a nonpartisan trained volunteer to help make your voice heard!
