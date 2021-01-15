@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-permalink: all
+permalink: all-of-us
 shortlink: all
 title: Our Democracy Must Include Us All
 share_header: You're almost done!
