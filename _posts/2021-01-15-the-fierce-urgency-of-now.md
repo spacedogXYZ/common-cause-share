@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-permalink: dr-king
+permalink: /dr-king
 shortlink: king
 title: The Fierce Urgency of Now
 share_header: You're almost done!
