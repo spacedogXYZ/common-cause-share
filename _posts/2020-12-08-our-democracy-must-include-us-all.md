@@ -1,8 +1,8 @@
 ---
 layout: post
 lang: en
-permalink: 2021/01/15/include-all-of-us
-shortlink: include-all-of-us
+permalink: all
+shortlink: all
 title: Our Democracy Must Include Us All
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
