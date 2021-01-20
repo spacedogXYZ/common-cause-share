@@ -1,3 +1,17 @@
+function parseQuery(queryString) {
+    var query = {};
+    var pairs = (queryString[0] === '?' ? queryString.substr(1) : queryString).split('&');
+    for (var i = 0; i < pairs.length; i++) {
+        var pair = pairs[i].split('=');
+        query[decodeURIComponent(pair[0])] = decodeURIComponent(pair[1] || '');
+    }
+    return query;
+}
+
+var urlParams = parseQuery(window.location.search);
+var suppressPostShare = urlParams.hasOwnProperty('hidePopup') ||
+  urlParams.hasOwnProperty('hidepopup') ||
+  urlParams.hasOwnProperty('hide');
 var showedPostShare = false;
 
 function PostShare(event, delay, method) {
@@ -5,7 +19,7 @@ function PostShare(event, delay, method) {
     delay = 500;
   }
 
-  if(!showedPostShare) {
+  if(!showedPostShare && !suppressPostShare) {
     setTimeout(function(){
         MicroModal.show('postshare')
         showedPostShare = true
