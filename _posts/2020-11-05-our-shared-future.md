@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-permalink: /2020/11/03/our-shared-future
+permalink: /2020/11/03/our-shared-future?s_source=squad
 shortlink: our-shared-future
 title: Our Shared Future
 share_header: You're almost done!
