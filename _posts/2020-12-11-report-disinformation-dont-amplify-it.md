@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-permalink: /2020/12/11/report-disinformation/
+permalink: /2021/2/2/report-disinformation/?s_source=squad
 shortlink: report-disinformation
 title: Report Disinformation -- Don't Amplify It!
 share_header: You're almost done!
@@ -12,10 +12,8 @@ share_text: "Georgians need the correct information when they head to the polls
   information. "
 share_image: /assets/uploads/facebook-twitter-dodont.jpg
 ---
-This election cycle has been full of disinformation - and when it comes to the rules of the senate runoff, it is imperative that Georgia voters have the correct information so they can have their voices heard. If you see disinformation about voting in an online post or ad, do your part to stop the spread. 
+This election cycle has been full of disinformation - and it continues to spread across platforms. If you see disinformation about voting in an online post or ad, do your part to stop the spread. 
 
-Don’t engage, react or comment -- that only means more people will see it! 
+**Don’t** engage, react or comment -- that only means more people will see it! 
 
-Do take a screenshot to submit it to ReportDisinfo.org. 
-
-Then be sure to check your My Voter Page to check your registration, ballot status, and polling location and share official voting information from your elected officials.
+**Do** take a screenshot to submit it to ReportDisinfo.org!
