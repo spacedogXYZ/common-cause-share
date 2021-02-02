@@ -6,10 +6,9 @@ shortlink: report-disinformation
 title: Report Disinformation -- Don't Amplify It!
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
-share_text: "Georgians need the correct information when they head to the polls
-  for the runoff - let’s make sure we help them by reporting disinfo and doing
-  our part to stop the spread. GA voters - check your My Voter Page for accurate
-  information. "
+share_text: "Let's make sure everyone has the correct information about the
+  issues that effect us all - be sure to report disinformation when you see it!
+  "
 share_image: /assets/uploads/facebook-twitter-dodont.jpg
 ---
 This election cycle has been full of disinformation - and it continues to spread across platforms. If you see disinformation about voting in an online post or ad, do your part to stop the spread. 
