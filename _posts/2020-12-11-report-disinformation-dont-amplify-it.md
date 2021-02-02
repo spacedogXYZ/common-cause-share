@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-permalink: /2021/2/2/report-disinformation?s_source=squad/
+permalink: /2021/2/2/report-disinformation?s_source=squad
 shortlink: report-disinformation
 title: Report Disinformation -- Don't Amplify It!
 share_header: You're almost done!
