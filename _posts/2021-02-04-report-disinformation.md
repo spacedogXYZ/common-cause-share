@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /2021/02/04/reportdisinfo/
-shortlink: report-disinfo?s_source=squad
+shortlink: report-disinfo
 title: "Report Disinformation! "
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
