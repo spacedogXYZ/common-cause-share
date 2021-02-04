@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-permalink: /2020/11/03/moving-forward-together?s_source=squad
+permalink: /2020/11/03/moving-forward-together
 shortlink: moving-forward-together
 title: Moving Forward Together
 share_header: You're almost done!
