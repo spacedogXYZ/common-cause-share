@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-permalink: /2021/02/04/reportdisinfo/
+permalink: /2021/02/04/dontengage/
 shortlink: report-disinfo
 title: "Report Disinformation! "
 share_header: You're almost done!
