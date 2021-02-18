@@ -11,7 +11,7 @@ share_text: "Let's make sure everyone has the correct information about the
   "
 share_image: /assets/uploads/facebook-twitter-dodont.jpg
 ---
-This election cycle has been full of disinformation - and it continues to spread across platforms. If you see disinformation about voting in an online post or ad, do your part to stop the spread. 
+The 2020 election cycle was full of disinformation - and unfortunately, those narratives and more continue to spread across platforms. This includes narratives about voter fraud, our election system, our democracy and others! If you see disinformation about voting in an online post or ad, do your part to stop the spread. 
 
 **Don’t** engage, react or comment -- that only means more people will see it! 
 
