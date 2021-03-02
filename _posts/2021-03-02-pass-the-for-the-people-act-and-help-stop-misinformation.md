@@ -3,7 +3,7 @@ layout: post
 lang: en
 permalink: /2021/03/02/deceptivepractices/
 shortlink: pass-hr1-stop-misinfo
-title: "Pass the For the People Act, and Help Stop Misinformation "
+title: "Pass the For the People Act and Help Stop Misinformation "
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
 share_text: The For the People Act puts people above politics and makes sure
