@@ -7,8 +7,8 @@ title: "Americans Chose a New Chapter "
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
 share_text: Despite attempts to override the will of the people, our voices were
-  heard and our votes counted. As our new president is sworn in, we’re ready to
-  stand together to tackle the challenges we face as a nation and restore our
+  heard and our votes counted. A new president was sworn in, and now we’re ready
+  to stand together to tackle the challenges we face as a nation and restore our
   health and economy.
 share_image: /assets/uploads/thumbnail_cc_newpath_fbtw_en.png
 ---
