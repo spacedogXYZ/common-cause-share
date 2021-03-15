@@ -13,7 +13,7 @@ share_text: "Protesting is and has been a key part of historic advances in our
   #RighttoProtest"
 share_image: /assets/uploads/righttoprotest.jpg
 ---
-Protesting has been a key instrument in the many historic advances of our country. 
+Protest has been a key instrument in the many historic advances of our country. 
 
 Without the protests, demonstrations, boycotts, and even the riots that led to the American revolution, the US might never have come to be. Popular protest has achieved important social change, from expanding the vote to women and people of color to increasing environmental standards and workplace safety.  
 
