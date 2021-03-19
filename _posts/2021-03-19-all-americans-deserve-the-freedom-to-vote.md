@@ -6,9 +6,9 @@ shortlink: all-americans-deserve
 title: "All Americans Deserve the Freedom to Vote "
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
-share_text: "Most of us believe that for a democracy to work for all of us, it
-  must include us all. While some politicians aim to pass policies to silence
-  the voices of Americans, we know that to move forward, we must ensure every
+share_text: "Most of us believe that for a democracy to work for all, it must
+  include us all. While some politicians aim to pass policies to silence the
+  voices of Americans, we know that to move forward, we must ensure every
   eligible American has the #FreedomToVote. "
 share_image: /assets/uploads/giphy-17.gif
 ---
