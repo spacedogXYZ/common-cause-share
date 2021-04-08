@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /2021/04/08/connecticut-voting-reform
-shortlink: /CTVoting
+shortlink: CTVoting
 title: Connecticut, don’t be Georgia.  Pass Voting Reforms Now!
 share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
