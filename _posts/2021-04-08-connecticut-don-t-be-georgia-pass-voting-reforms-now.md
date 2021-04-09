@@ -13,3 +13,5 @@ share_text: "Outrageous new bills in #Georgia will limit the #RightToVote and
 share_image: /assets/uploads/fb_unbranded-automatic-voter-registration2.png
 ---
 Outrageous new bills in #Georgia will limit the #RightToVote and silence citizens—even making it illegal to give water to people who are waiting in line to vote.  #Connecticut, don’t be Georgia. Pass #VotingRights reforms now!
+
+**[You can write to your Connecticut lawmakers in support of expanding voting rights here >>](< https://actionnetwork.org/letters/write-your-state-legislators-connecticut-dont-be-georgia-pass-voting-reforms-now>)**
