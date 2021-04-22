@@ -10,7 +10,7 @@ share_text: "Outrageous new bills in #Georgia will limit the #RightToVote and
   silence citizens—even making it a misdemeanor to give water to people who are
   waiting in line to vote.  #Connecticut, don’t be Georgia. Pass #VotingRights
   reforms now!"
-share_image: /assets/uploads/fb_unbranded-automatic-voter-registration2.png
+share_image: /assets/uploads/1200x628.png
 ---
 Outrageous new Jim Crow style voter suppression laws in Georgia will limit the right to vote and silence citizens--even making it a misdemeanor to give water or food to people who are waiting in line to vote.  #Connecticut, don’t be Georgia. Pass #VotingRights reforms now!
 
