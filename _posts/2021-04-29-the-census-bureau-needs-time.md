@@ -10,7 +10,7 @@ share_text: "Just like we had to wait for election results, we now have to wait
   for the full assessment of the census data for accuracy and quality - and
   that’s ok! Thanks to the census workers making sure our communities are
   accurately reflected. "
-share_image: /assets/uploads/all-of-us-census-facebook-twitter-postelection-arrow.png
+share_image: /assets/uploads/census-takes-time-facebook-twitter-electionnight.png
 ---
 Just like we had to wait for election results, we now have to wait for the full assessment  of the Census data for accuracy and quality - and that’s ok! 
 
