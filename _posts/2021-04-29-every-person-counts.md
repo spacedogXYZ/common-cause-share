@@ -13,6 +13,6 @@ share_image: /assets/uploads/all-of-us-census-facebook-twitter-postelection-arro
 ---
 The Census Bureau endured unprecedented challenges this past year to get an accurate count that reflects our communities. From political malfeasances to wildfires, hurricanes, civil unrest, COVID-19 lockdowns and more, processing the census data has been difficult - and the apportionment counts were just the first steps of the data release.  
 
-With these unexpected delays, it is understandable that the data is coming out later than usual. We must give the Census Bureau time to assess the quality and process the data completely and accurately. 
+With these unexpected delays, it is understandable that the community-level data is coming out later than usual. We must give the Census Bureau time to assess the quality and process the data completely and accurately. This accurate data will help ensure that Black, Asian, Latinx, and Indigenous communities have the resources for schools, public transportation and better healthcare. 
 
 Once this is done, we can use this information to move forward together!
