@@ -8,7 +8,7 @@ share_header: You're almost done!
 share_subhead: Use these sharing tools to spread the word
 share_text: "The For the People Act must continue to move forward so we can
   guarantee the promise of democracy to every American. "
-share_image: /assets/uploads/giphy.gif
+share_image: /assets/uploads/giphy-2-.gif
 ---
 On May 10th, the Senate held a markup for the For the People Act. Some politicians attacked the For the People Act in bad faith and offered up amendments based on disinformation from the 2020 election. This disinformation was rejected, and more importantly, the For the People Act is moving forward. 
 
