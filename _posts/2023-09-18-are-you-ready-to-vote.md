@@ -3,7 +3,7 @@ layout: post
 lang: en
 lang_ref: /2023/09/18/NVRD
 permalink: /2023/09/18/NVRD
-shortlink: /NVRD
+shortlink: /NVRD2023
 title: Are you ready to vote?
 share_header: Spread the word!
 share_subhead: Make sure your friends are ready to vote
