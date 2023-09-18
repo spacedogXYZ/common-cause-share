@@ -1,12 +1,12 @@
 ---
 layout: post
 lang: en
-lang_ref: /2020/09/22/NVRD
-permalink: /2020/09/22/NVRD
+lang_ref: /2023/09/18/NVRD
+permalink: /2023/09/18/NVRD
 shortlink: /NVRD
-title: Are you ready to vote in November?
+title: Are you ready to vote?
 share_header: Spread the word!
-share_subhead: Make sure your friends are ready to go for the November election.
+share_subhead: Make sure your friends are ready to vote
 share_text: Today is National Voter Registration Day! Voting is our chance to
   decide what's best for the future of our families, community, and country.
   Register to vote or check your registration at commoncause.org/vote
@@ -19,4 +19,4 @@ That means that now more than ever, it’s up to us individually to reach out to
 
 **Take 5 minutes today and make sure you are ready to vote by [registering to vote](https://www.commoncause.org/voting-tools/register-to-vote/) or [checking to see if your voter registration is updated](https://www.commoncause.org/voting-tools/verify-your-voter-registration-status/).**
 
-**Then, use our sharing tools to get the word out to your friends, so they can make sure they're ready to go for the November election >>**
+**Then, use our sharing tools to get the word out to your friends, so they can make sure they're ready to go >>**
